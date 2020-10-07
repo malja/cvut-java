@@ -18,6 +18,10 @@ Přejděte do složky s projektem a spusťte příkaz:
 
     gradle build
 
+Pokud chcete sestavit fat-jar, tedy JAR soubor se všemi závislostmi, stačí zadat místo předchozího příkazu:
+
+    gradle fatJar
+
 ## Spuštění
 
 Přejděte do složky s projektem a spusťte příkaz:
@@ -25,6 +29,12 @@ Přejděte do složky s projektem a spusťte příkaz:
     gradle run --args="FIRST_NAME LAST_NAME"
 
 Kde nahradíte `FIRST_NAME` a `LAST_NAME` za adekvátní parametry.
+
+Pokud jste v předchozím příkladu sestavili fat-jar, použijte příkaz:
+
+    cd .\bin\libs
+    java -jar 01-hello_word-all.jar FIRST_NAME LAST_NAME
+
 
 ### Poznámka
 
