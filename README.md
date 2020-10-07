@@ -1,2 +1,2 @@
 # cvut-java
-Řešení úloh z přemdětu JAVA
+Řešení úloh z předmětu JAVA na ČVUT FS v Praze.
