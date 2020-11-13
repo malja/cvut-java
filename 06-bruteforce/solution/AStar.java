@@ -8,7 +8,7 @@ import java.util.Iterator;
 
 public class AStar {
 
-    private static String[] towns = {"Prague", "New York", "London", "Moscow", "Peking"};
+    private static String[] towns = {"Prague", "New York", "London", "Moscow", "Beijing"};
     private static int[][] tickets = {
         {0, 4279, 1799, 2602, 10236},   // Prague
         {4279, 0, 2017, 9873, 14300},   // New York
