@@ -1,0 +1,1000 @@
+7666	Registraèní zaøízení pro pohyb plováku u mìøení hladin kapalin
+2308	Elektrické uspoøádání pøíjmu k dálkovému mìøení, dálkovému ovládání, telefonování, telegrafování a podobnì
+4353	Automatizovaná stanice pro komplexní zjišování technického stavu motorovıch vozidel
+7700	Akustické èidlo k mìøení délkovıch zmìn
+2079	Zapojení pro automatizaci bezdotykového bodového mìøení metodou laser-dopplerovské anemometrie
+2516	Zapojení pro mìøení proudu
+3210	Detekèní jednotka v zaøízení pro mìøeni radioaktivních aerosolù
+5097	Zaøízení k mìøení tlakovıch rozdílù v potrubí
+5571	Zapojení pro vícekanálové mìøení na rotujících èástech technologickıch jednotek
+6484	Zapojení k provádìní korekce translaèních tepelnıch deformací
+7373	Obvod pro èíslicové mìøení velièin nepøímo úmìrnıch èasu
+7941	Pøístroj na mìøení pøítlaèné síly kartáèe na komutátor nebo krouek v elektrickém stroji
+9561	Zpùsob analızy plynnıch smìsí
+2280	Uchycení snímaèe v hlavici pro mìøení chvìní
+3229	Zapojení k vytváøení kontrolního signálu elektronickıch víceúèelovıch pøístrojù pro mìøeníkmitoètu a/nebo èasu
+4401	Zpùsob a zaøízení pro mìøení úhlu sklonu rypadla
+5146	Zapojení k mìøení èinné, nebo jalové sloky støídavého proudu
+5449	Silomìrnı èlen
+5991	Zpùsob a zaøízení k mìøení dynamické magnetostrikce na páskovıch vzorcích
+7128	Úlonı snímaè polarizaèního potenciálu
+8178	Zapojení pro mìøení fázového posunu dvou sinusovıch napìtí
+8627	Zpùsob mìøení vıšky hladiny roztavené skloviny a zaøízení pro provádìní tohoto zpùsobu
+8639	Referentní elektroda pro elektrochemická mìøení
+8894	Zaøízení k stacionárnímu mìøení magnetickıch vlastností tabulí plechù pøi støídavém magnetování
+1404	Zpùsob zjišování polohy osy rotaèní válcové plochy souèásti
+1482	Zpùsob zjišování mnoství strusky, nalézající se bìhem plynulého odlévání taveniny kovu vmezinádobì a zaøízení k provádìní tohoto zpùsobu
+1619	Zpùsob vıroby lichobìníkovıch závitù a šnekù, mìøení a koneèné kontroly
+3575	Zpùsob a zaøízení ke zmagnetování mìøení, odmagnetování a tøídìní stálıch magnetù
+5258	Zaøízení ke stanovení rychlosti vytvrzování jádrovıch smìsí
+8112	Elektromechanickı pøevodník
+9247	Zpùsob a posuvné mìøidlo na mìøení rozteèe otvorù
+530	Zpùsob a zaøízení k mìøení teploty nezávisle na koeficientu emise
+567	Zaøízení pro dálkové plynulé mìøení teploty pomocí svìtlovodù
+758	Zaøízení k mìøení energie elektromagnetického záøení
+1160	Mìøicí a øídicí stroj ke stanovení polohy polotovaru
+1301	Zpùsob øízení spojitého poøadí válcovacích tratí zmìnou válcovacího momentu
+1302	Zpùsob øizení spojitého poøadí válcovacích tratí
+1672	Zpùsob mìøení uhlovodíkù neobsahujících metan v plynech a zaøízení k provádìní tohoto zpùsobu
+2400	Zpùsob a zaøízení k regulaci støední tloušky vıliskù
+2932	Pùdní vrták
+5075	Pøístrojovı blok ke kombinované radiomonometrii a debitometrii
+5955	Zpùsob mìøení mnoství tepla termoluminiscenèními detektory a zaøízení pro jeho provádìní
+6566	Zaøízení pro ustavení poadované polohy dílce obsahujícího èelo a válcovitı otvor, jeho prùmìr má bıt zmìøen, vùèi mìøidlu
+7127	Zpùsob stanovení teploty vinutí elektrického stroje na støídavı proud pøi zatíení zmìnoutlaku
+7629	Zaøízení a zpùsob mìøení tepla, zejména hydrataèního tepla
+1318	Zpùsob kontinuálního horizontálího lití kovu a slitin
+1359	Zapojení k mìøení úchylek kruhovitosti rotaèních obrobkù
+1686	Zaøízení pro snímání vıšky hladiny kapalin ve stojatıch nádrích
+2656	Enzymová elektroda pro mìøení glukózy
+3961	Zaøízení pro mìøení spotøeby paliva u vozidel na váleèkové zkušební stolici
+5459	Zpùsob programem øízené kontrolní zkoušky a vyhodnocení vısledkù mìøení brzdícího ústrojímotorovıch vozidel a zaøízení k provádìní tohoto zpùsobu
+6887	Mìøicí objímka pro mìøení elektrickıch obvodù
+7342	Zaøízení pro mìøení otvorù s automatickım nulováním
+7737	Zpùsob vypínaní a zapínání usmìròovaèù stanic katodické ochrany
+7973	Zpùsob mìøení korozního stavu úlonıch zaøízení
+7983	Zpùsob zvıšení spolehlivosti enzymovıch èidel
+8341	Zaøízení k opravì údajù u pøístrojù pro mìøení plochy
+8569	Zpùsob prognózního urèení svislé konvergence dlouhıch dùlních dìl
+8994	Zaøízení k mìøení útlumu povrchové vlny s frekvenèním analogovım vıstupem
+9008	Zaøízení k impulsní magnetické kontrole mechanickıch vlastností ferromagnetickıch vırobkùv pohybu
+9242	Tøídotekovı mikrometr pro mìøení mìlkıch neprùchozích otvorù
+366	Zpùsob ochrany vykládacího zaøízení varnıch kotlù s nepøetritım provozem
+447	Jednoduchı pøevodník napìtí, odporu na frekvenci
+930	Zapojení pro dálkové mìøení spotøeby elektrické energie a èistého strojního èasu dùlních strojù
+982	Pyroelektrickı detektor
+1617	Zapojení mìøièe indukènosti
+1687	Zaøízení pro snímání hodnot tlaku
+2251	Systém elektronického mìøení špièkovıch a okamitıch hodnot tlaku, dıchání
+2278	Zaøízení k mìøeni zkreslení signálu s ohledem na jejich tvar
+2288	Zaøízení pro mìøení zkreslení signálù podle jejich spektra
+3128	Mìøení diametru drátu
+3736	Zaøízení pro mìøení prùmìru drátu
+4329	Zpùsob mìøení a vyhodnocování zpoïování magnetického toku v pøíèné ose stejnosmìrného stroje a zapojení k provádìní tohoto zpùsobu
+4796	Signální mìøicí pøístroj pro špièkovı tlak s elektronickım obvodem pro zkrácení impulsù
+5964	Nivelaèní èidlo
+6124	Zpùsob mìøení prùtoku tekutého media a zaøízení pro provádìní tohoto zpùsobu
+8202	Zpùsob mìøení prùmìru a radiálního házení obìné dráhy kroukù axiálních kulièkovıch loisek s kosoúhlım stykem
+9395	Zkušební telefonní zaøízení
+818	Zaøízení pro detekování rozdílù v barvì
+1543	Metoda dynamického vyváení otoèného stroje
+1916	Elektroda jiskrového poèítaèe stop, urèená pro mìøení nízkıch i vysokıch hustot stop
+2723	Zpùsob automatického øízení popelnatosti papírového pásu
+4488	Zpùsob kalibrace seismickıch snímaèù vibrací
+4766	Zpùsob provedení anylızy sloek komplexního systému
+5454	Rozmístìní pro vnìjší modulaci laserového záøení na kyslièníku uhlièitém o velké hmotnosti
+5612	Zaøízení pro mìøení vıšky strusky v odlévací pánvi
+6329	Zpùsob mìøení pøíèného polomìru obìné dráhy vnitøního krouku soudeèkového loiska a zaøízení k jeho provádìní
+8960	Zaøízení pro atestaci difrakèní møíky
+572	Rtuová elektroda
+923	Zdroj impulzní zvukové vlny
+1066	Zpùsob mìøení záøivého toku a zaøízení k provádìní tohoto zpù sobu
+1068	Hlavice pøijímaèe záøivého toku
+1288	Stereokomparátor
+2079	Zpùsob fotografického mìøení rozloení povrchovıch teplot pøi so uèasném dopadu rušivého osvìtlení
+2353	Zaøízení na mìøení teploty
+2363	Vertikálnì pohyblivé klouzání a prokluzující zaøízení
+2521	Zpùsob a zaøízení pro nepøetrité mìøení nevelkıch zakalení
+4657	Laserovı impulsní dálkomìr
+5180	Zpùsob zjištìní obsahu pøímìsí a teploty v slévanıch kovech a sl itinách
+5691	Zpùsob geometrického vıškového mìøení a zamìøovací cíl k jeho pr ovádìní
+5695	Fóliovı snímaè pro mìøení povrchovıch trhlin
+5846	Zpùsob nestabilního dìlení snímaèù tepelného proudìní
+5874	Schema zpracování impulsních signálù úmìrnıch dıchacímu objemu
+7347	Messbanerùv spektometr
+7506	Zaøízení pro mìøení energie elektromagnetickıch impulsù záøení
+8247	Schema pøedávání signálù pomocí svìtlovodù se støídáním vedení signálù
+8623	Automatické zaøízení pro pøipojení drátìnıch vıstupù
+9360	Zpùsob podávání útkové nitì na tryskovém tkacím stroji
+9556	Zaøízení pro mìøení velkıch rozmìrù
+9620	Zpùsob mìøení tlaku v pneumatikách bez otvírání ventilu
+9625	Zaøízení pro kontrolu hladiny taveniny v konvertorech
+54 Z	pùsob a zaøízení k mìøení rozdìlení fází v nezpevnìnıch násypov ıch materiálech nebo zpevnìnıch geologickıch jádrech
+724	Zpùsob a zaøízení pro urèování reologickıch parametrù sypkıch materiálù
+913	Oftalmoreografickı èítaè
+915	Aplanaèní tonometr - tonograf
+1644	Fóliovı èítaè pro mìøení rozmìrù povrchovıch trhlin
+2811	Optoelektronické zaøízení pro mìøení polohy a orieantace pevného tìlesa v prostoru
+2943	Zaøízení k navlhèování a souèasnému mísení práškového nebo zrnitého materiálu
+3402	Pøístroj pro mìøení nelineárních deformací
+3597	Magnetickı prùtokomìr
+4395	Zpùsob optimalizace spalování v komorovıch pecích pro vypalování uhlíkatıch blokù a zaøízení k provádìní tohoto zpùsobu
+5069	Zpùsob tøídìní polykrystalickıch korundovıch podloek pro SVÈ zaøízení
+5725	Zpùsob zjišování provozního stavu eleznièních tratí a zaøízení k provádìní tohoto zpùsobu
+5741	Zaøízení pro mìøení dodávky paliva palivovou soustavou vznìtovéh o motoru
+6072	Citovı interferometr pro kontrolu odchylek od roviny povrchu
+6203	Zpùsob mìøení prùmìru drátu
+6307	Stupnice pro transformátoru pro mìøení posunu
+7694	Širokopásmovı mìniè signálù akustickıch vln
+8210	Diferenèní adsorpèní pøístroj na mìøení struktury mezopórù adso rpcí dusíku
+8881	Zaøízení pro záznam signálù z tenzometrù tvoøících ètyøramennı most
+1000	Zapojení pro mìøení ivotnosti unipolárního tranzistoru
+1000	Zapojení pro vyhodnocování stárnutí unipolárního tranzistoru
+13      Elektrometrická soustava
+44      Schéma linearizace a normování skupiny charakteristik
+252	Zaøízení pro optické mìøení torzního momentu rotujícího høídele
+633	Zaøízení pro tøídìní pohyblivıch feromagnetickıch èástí malıch rozmìrù
+877	Zpùsob mìøení tlakové pevnosti dutıch vláken a zaøízení k provád ìní tohoto zpùsobu
+996	Zpùsob korekce pomìrù páry a kyslíku ve smìsi
+1060	Automatizované mìøení místa vıskytu rtut@ového menisku
+2412	Zpùsob mìøení mìnící se hustoty v prùbìhu délky vláknitého prova zce a zaøízení k jeho provádìní
+2860	Zaøízení pro èištìní a kontrolu kotouèovıch nosièù záznamu
+3056	Zaøízení k provádìní a vyhodnocování zkoušek tvrdosti materiálu obrobku
+3150	Zaøízení pro mìøení pruné deformace povrchu konstrukce
+3218	Sedimentaèní lab v aktivaèní nádri
+3392	Pøevodník efektivní hodnoty napìtí na stejnosmìrné nap ìtí
+3435	Zpùsob automatické kalibrace mìøièe absorbance a zaøízení k prov ádìní tohoto zpùsobu
+3493	Zpùsob mìøení ustálené hodnoty teploty roztavené oceli
+3878	Zaøízení pro mìøení vysokıch napìtí
+3880	Diferenèní mikrokalorimetr
+4419	Zaøízení pro mìøení tlaku a teploty proudícího média
+4432	Zpùsob spoleèného zplyòování kapalnıch a pevnıch práškovıch pal iv
+4518	Zaøízení pro integrovanou defektoskopickou kontrolu materiálu a vırobkù pøi kombinované automatizované ultrazvukové a radioskopi cké zkoušce
+4773	Zaøízení pro impulsní mìøení akustické impedance
+4845	Zpùsob sériového støíkání vırobkù a zaøízení k jeho provádìní
+5535	Zaøízení pro mìøení prùtoku
+5696	Zaøízení k navíjení útkovıch cívek
+5847	Zpùsob zjišování rychlosti pøíze na textilních strojích a zaøízení k jeho provádìní
+5933	Prùtokomìr pro mìøení zvláštì pìnících kapalin
+6269	Zapojení pro stanovení kyslíku nebo oxidu uhlièitého v plynnıch a kapalnıch prostøedích
+6426	Zpùsob zhotovení jádra feromagnetické sondy
+6568	Zpùsob stanovení oprav na ztráty zpùsobené mrtvou dobou detekèní ho systému
+6829	Kontaktovací zaøízení pro mìøení integrovanıch obvodù s plochım pouzdrem
+7037	Optickı pøenosovı èlen pro bezkontaktní mìøení teploty
+7242	Mìøidlo pro mìøení rovnobìnosti otvorù
+7571	Kapacitní mìøiè vlhkosti
+7636	Zpùsob mìøení délky a rozvoje trhliny v kovovıch materiálech
+7835	Zapojení mìøièe vıkonové úrovnì pøerušovacího optického záøení
+7994	Indukènostní snímací jednotka
+8167	Tlakovı snímaè
+8331	Tlakovı snímaè
+8537	Zaøízení na mìøení vıšky pro parašutisty
+8694	Dávkovací zaøízení malıch objemù kapalin o nízké viskositì
+8911	Zapojení k tøídìní prken
+215	Poèítaèovı mìøiè harmonickıch prùbìhù
+374	Zaøízení k zamìøování a k mìøení sklonu v trojrozmìrném prostoru
+506	Zaøízení pro mìøení napjatosti plasticky nebo pseudoplasticky deformujících se hornin
+571	Zpùsob mìøení teèné a normálné sloky pøítlaèné síly
+983	Zapojení pro kontrolu vıskytu elektrickıch impulzù
+1005	Zpùsob mìøení rychlosti a zaøízení k provádìní tohoto zpùsobu
+1064	Zpùsob zjišování koeficientu difuze stavebních materiálù
+1115	Mìøicí hlavice pro mìøení pøilnavosti tenkıch vrstev vrypovou metodou s pøímoèarım pohybemmìøeného vzorku
+1120	Zpùsob optoelektronického mìøení otáèek a zaøízení k jeho provádìní
+1277	Zpùsob mìøení a vyhodnocování rozptylu kapalnıch agrochemikálií a zaøízení k provádìní tohoto zpùsobu
+1604	Kompaktní detekèní jednotka elektronového záøení
+1664	Zaøízení pro mìøení radiální vùle miniaturních valivıch loisek
+1781	Zaøízení k automatickému mìøení profilù vnitøních prostor
+1957	Snímaè tahovıch sil podélného útvaru, zejména osnovních nití
+2039	Zpùsob stanovení funkèních skupin alkydovıch a polyesterovıch pryskyøic
+2322	Zaøízení pro mìøení prùtoku tekutiny
+2366	Zpùsob automatické optimalizace spalovacího procesu v tepelnıch zaøízeních a zaøízení k provádìní tohoto zpùsobu
+2616	Zaøízení pro polní mìøení koeficientu spektrální odraznosti
+2631	Zpùsob promìøení a opracování oblasti natvarování podešví svrškù obuvi a zaøízení k provádìní tohoto zpùsobu
+2821	Zaøízení pro mìøení pøirozené radioaktivity vzorkù stavebních materiálù
+3189	Zaøízení na mìøení penetraèního odporu
+3190	Zaøízení pro uloení vzorku pøi mìøení vnitøního tøení partikulá rních látek, zejména zeminy
+3191	Zpùsob mìøení souèinitele vnitøního tøení partikulárních látek za nízkıch a vysokıch tlakùa zaøízení k provádìní tohoto zpùsobu
+3310	Zpùsob mìøení, vytyèování a snímání polohy rotaèní osy podpìrnıch kladek a vodících prstencù rotaèní pece vzhledem k projektované poloze
+3582	Pøístroj pro mìøení odìru nití
+3653	Zaøízení pro mìøení teploty proudícího media
+4178	Provozní diagnostickı pøístroj pro mìøení parametrù elektrického hrazení zvíøat
+4181	Zpùsob pøesného nastavení polohy elektronového systému obrazovky a optickoelektrická soustava k jeho provádìní
+4207	Pojízdnı stroj k podbíjení, zdvihání a rovnání koleje
+4374	Zpùsob zjišování vıšky a zaøízení k jeho provádìní
+4654	Zapojení pro sledování vıpadkù napájecího napìtí
+4790	Zpùsob ovládání zmìny škrticí polohy šoupátkového uzávìru
+4836	Plošnı elektrooptickı teplotní indikátor a zpùsob jeho ovládání
+4982	Triaxiální pøístroj
+5337	Zapojení detektoru zmìny amplitudy støídavého signálu
+5474	Drák pro mìøení mikrovlnnıch tranzistorù
+5677	Zpùsob zvıšení pøesnosti nebo spolehlivosti mìøení zaøízení pou ívanıch k mìøení charakteristickıch vlastností hromadnıch sypnıc h materiálù a zaøízení k provádìní tohoto zpùsobu
+5747	Školní zaøízení pro mìøení vıkonu záehového motoru
+5922	Zpùsob mìøení mìrné spotøeby paliva spalovacích motorù
+6188	Zpùsob mìøení šumu za tmy u zesilovaèù jasu obrazu pomocí fotoelektrického násobièe
+6348	Zapojení pro mìøení èasovıch intervalù pro rozhodování sportovních soutìí, zejména cyklotrialu
+6413	Videovoltmetr
+6436	Zaøízení k mìøení kritického úhlu nábìhu letounu
+6488	Zpùsob automatického zjišování úhlové distribuce orientace povrchovıch vrstev polymerníchmateriálù
+6575	Zapojení na mìøení vlastností integraèního zesilovaèe
+6795	Mechanické zatìovací zaøízení s tenzometrickım snímaèem vyvozované síly
+6975	Pøenosné zaøízení pro mìøení indexu tvrdosti a pevnosti
+7152	Zpùsob nastavení teplotního koeficientu vybraného parametru mikroelektronické souèástky
+7165	Vodorozpustnı rozvìtvenı kationtovı polymerní flokulant, zpùsob jeho vıroby a jeho pouití
+7578	Zapojení elektronickıch obvodù optoelektronického reflexního snímaèe se tøemi vláknovımi svìtlovody
+433	Postup urèení optickıch ztrát ve vláknovıch optickıch vlnov odech v odraeném svìtle
+434	Zpùsob mìøení extrémnì malıch optickıch ztrát
+435	Zpùsob urèení optickıch ztrát ve spojenıch optickıch vlnovo dech v odraeném svìtle
+436	Postup mìøení optickıch ztrát ve vláknovıch optickıch vlnovodech v odraeném svìtle
+437	Postup mìøení optickıch ztrát na èelech a v místech spojení optickıch vlnovodù v odraenémsvìtle
+445	Zpùsob mìøení pohybu nákrukù váleèkovıch loisek a zaøízení k provádìní tohoto zpùsobu
+503	Èidlo
+676	Zaøízení na mìøení smykové pevnosti pùdy v terénu
+812	Zpùsob mìøení pomìrné spotøeby tepla
+982	Statickı elektromìr
+1110	Zpùsob vıroby profilovaného prvku kluzného loiska a zaøízení
+1146	Zapojení ultrazvukového indikátoru valivıch loisek
+1383	Èidlo objemového prùtoku tekutin
+1396	Zaøízení pro mìøení únosnosti a stlaèitelnosti zemin
+1442	Zpùsob mìøení síly pomocí tenzometrického mùstku a zapojení k provádìní tohoto zpùsobu
+1634	Postup vstøikování plastickıch hmot a zaøízení k provádìní tohot o postupu
+1711	Lokální energetická jednotka
+1777	Zpùsob a zaøízení pro mìøení popelnatosti a dopravovaného mnost ví tìeného hnìdého uhlína dopravním pásu
+1793	Automatické mìøení tlouštìk vrstev vody na zpevnìnıch pohybovıch plochách letiš a mìøícízaøízení k provádìní mìøení
+1840	Programovatelnı mìøicí optickı atenuátor
+1859	Uspoøádání vysokoteplotního termoèlánku
+2101	Zpùsob mìøení teploty pomocí odporového snímaèe a zaøízení k provádìní tohoto zpùsobu
+2150	Stínìná kabina pro mìøení leteckıch radiokompasù a zpùsob pøesného nastavení jejich elektrickıch parametrù
+2191	Zpùsob zpracování regenerovaného slévárenského písku
+2194	Pøípravek k promìøování vùlí ve valivıch loiscích
+2232	Zpùsob zjištìní poèátku mìøení hloubky vrtané jamky
+2317	Detektor mastitidy pro dojnice
+2362	Zpùsob pøipevnìní èidla pro mìøení spotøeby tepla k bodovì svaøovanému radiátoru z ocelového plechu
+2397	Elektrickı snímaè rychlosti proudìní kapaliny nebo plynu
+2428	Zapojení pro nastavení rozhodovací úrovnì u lineárních obrazovıch snímaèù
+2462	Zpùsob a zaøízení na optimalizaci zpracování bavlny v pøádelnì
+2693	Zpùsob stanovení velikosti nohy pro vıbìr odpovídající velikosti obuvi a kopyto pro tvarování této obuvi
+2837	Laminát a zpùsob jeho vıroby
+2913	Sonda pro mìøení teploty tekutého kovu v licím proudu
+2945	Zpùsob mìøení tlakù v systému automatického sbìru dat
+2970	Sonda se ztratnou kotvou
+2971	Termometrická sonda se ztratnou kotvou
+3017	Upínací mechanismus s horizontálním pohybem upnutıch tyèí v induktoru
+3157	Zapojení tribopolarografické analytické jednotky pro snímání a vyhodnocení proudové køivky
+3204	Zpùsob mìøení radioaktivity kovovıch nebo cement obsahujících pø edmìtù
+3423	Rotaèní viskozimetr
+3556	Tlakovı mìøiè parního vıkonu parogenerátoru
+3718	Mìøicí systém souososti
+3775	Zpùsob mìøení ozáøení
+3932	Technické zaøízení pro odhad intenzity zvuku v libovolném typu akustického pole pomocí jednoho mikrofonu
+4145	Zpùsob a zaøízení pro zpracování mìkce ohebnıch kusù plošného materiálu
+4195	Rotaèní spojka pro bezkontaktní pøenos signálù optickım záøením s bezkontaktním pøenosem elektrické energie
+4298	Mìøicí zaøízení ke zjišování dráhy nebo úhlu natoèení
+4384	Zpùsob vıroby organického hnojiva øízenou aerobní fermetací
+4415	Smìsné èinidlo pro stanovení iontù v kapalinách
+4436	Zpùsob stanovení fyzikálnì-mechanickıch vlastností feromagnetickıch materiálù
+4437	Zaøízení na mìøení tvrdosti a hustoty mìkkıch textilních a podobnıch materiálù a materiálùsypkıch
+4511	Zpùsob mìøení tepelné vodivosti, zejména prostorovì rozmìrnıch pøedmìtù
+4619	Zariadenie na meranie vlhkosti sypkıch po¾nohospodárskych produ ktov
+4630	Manipulaèní zaøízení
+4643	Ultrazvukovı dálkomìr s teplotní kompenzací
+4925	Vlhèící zaøízení psychrometrického knotu
+5102	Zaøízení na automatické øízení rozloení vıkonu v aktivní zonì energetického reaktoru
+5149	Zaøízení pro automatické mìøení høídelovıch souèástí
+5343	Test pro zjištìní koncentrace a aktivity aerobních bakterií
+5366	Zpùsob modelování dynamiky tepelného procesu v indukènì ohøívané m a kaleném tìlese
+5434	Zaøízení pro hodnocení vznìtlivosti a vıbušnosti prùmyslovıch prachù
+5524	Zapojení pro korozní mìøení
+5611	Zpùsob sanitace a sterilace vodní parou a zaøízení k provádìní tohoto zpùsobu
+5616	Zpùsob stanovení reaktivity fosforeènıch surovin
+5617	Fóliovı elektrooptickı teplotní indikátor a zpùsob jeho ovládán í
+5690	Univerzálny laboratórny reaktor
+5694	Zpùsob zjišování raného stadia vzniku záparového dìje v dùlníc h dílech
+5963	Zpùsob mìøení odporu jehly v dráce jehelního válce a vlivu pros tøedí této dráky na pohyb jehly u pletacího stroje
+6014	Pasivní dozimetr pro mìøení prùmìrné koncentrace plynù
+6052	Roztok pro coulometrické stanovení tloušky tenkıch povlakù mìd i
+6064	Zpùsob stanovení reaktivity vápencového aditiva pro odsiøování spalin
+6092	Zaøízení pro mìøení plochy usní
+6152	Zpùsob cyklického urèování popelnatosti surovıch uhelnıch kalù
+6244	Stupnice podélnıch sklonù pøístrojù pro mìøení a indikaci úhlù
+6315	Zaøízení pro absolutní odmìøování délek
+6422	Ochranné pouzdro termoèlánku
+6434	Zpùsob získávání signálu z bìící niti
+6537	Zaøízení pro mìøení odporu jehly v dráce jehelního válce
+6594	Turbína s teplotnì závislım profilem lopatek
+6779	Teplotní èidlo pro mìøení povrchové i objemové teploty
+6811	Zpùsob okamitého zjišování kontaminace horninového prostøedí ropou a kapalnımi ropnımi produkty
+6847	Pøíslušenství k zaøízení pro kontrolu plnìní cigaretového provazce
+6863	Zaøízení pro mìøení rychlosti hnacího vozidla
+6867	Zpùsob potlaèení rušivého neklidu pøi mìøení malıch dynamickıch tlakovıch sil a zaøízení kjeho provádìní
+6868	Zpùsob mìøení pomìru silovıch úèinkù vysokotlakého tekutinového paprsku a zaøízení k jehoprovádìní
+6906	Teplomìr pro širokı rozsah teplot
+6964	Zaøízení pro mìøení teploty pouitím mìøení viskozity kapaliny
+36 P	ístovı dávkovaè sypkıch hmot pro kontinuální dávkovací linky
+130	Silomìrné èidlo
+432	Zpùsob mìøení teploty mokrého teplomìru plynu a zaøízení k provádìní tohoto zpùsobu
+594	Sonda pro odbìr vzorkù plynu a mìøení teploty v šachtové peci
+871	Obvod pro mìøení dynamickıch parametrù polovdièo vıch diod a tyristorù
+939	Pasivní dozimetr pro mìøení prùmìrné koncentrace plynù
+1103	Zaøízení pro mìøení kroutícího momentu
+1126	Soustava cívek pro mìøení vzdálenosti kovovıch pøedmìtù
+1182	Zkušební pøístroj se zdrojem stejnosmìrného napìtí
+1238	Zapojení pro vyhodnocení elektrickıch velièin, zejména u pøístrojù na mìøení impedance
+1392	Zaøízení pro mìøení prùtoku tekutiny
+1432	Zpùsob snímání vıbojové èinnosti na elektrickıch toèivıch strojích a zaøízení k jeho provádìní
+1585	Pøístroj na mìøení napìtí niti
+1654	Zapojení regulaèního a mìøicího zaøízení tepelné ho vıkonu otopnıch tìles
+1822	Uzavírání hoøících ropnıch vrtù s poškozenım úsovım šoupátkem, nebo úvodní èástí panicové kolony
+1825	Konstrukce mìøidla pomìrné spotøeby tepla
+1907	Optickı systém sdrueného dílenského mìøièe
+1955	Zapojení pro mìøení a regulaci ohøívaného média
+2162	Zpùsob zpracování tekutıch radioaktivních odpadù a zaøízení k jeho provádìní
+2202	Detektor pro zjišování pøerušení drátku na rısovacích strojích
+2312	Zaøízení a zpùsob pro vpracování nadouvadel do kapalin pro vırobu pìnovıch polymerù jakoi pro mìøení objemové rozpínavosti jejich smìsí
+2320	Èidlo pro mìøení malıch prùtokù kapalin
+2385	Zaøízení pro mechanoterapeutickou rehabilitaci a kondièní posilování
+2458	Zpùsob vıroby áruvzdornıch odporovıch pásù
+2645	Zapojení programového øízení vytápìní a mìøení spotøeby tepla
+2965	Zpùsob a zaøízení na vırobu plstí z minerálních vláken
+3079	Zpùsob øízené reprodukovatelnosti procesu plazmatického nástøiku
+3080	Zapojení centrálního rozvodu teplé uitkové vody
+3221	Zpùsob jemného broušení kroukù na jejich vnìjší ploše nebo na jejich vnitøní ploše a zaøízení k provádìní tohoto zpùsobu
+3222	Zpùsob jemného broušení kroukù, zejména obìnıch kroukù váleèkovıch loisek a zaøízení kprovádìní tohoto zpùsobu
+3358	Zpùsob vıroby ponoky okrouhlım pletacím strojem
+3467	Zpùsob mìøení spotøeby tepla v topnıch systémech a zaøízení k provádìní zpùsobu
+3742	Zaøízení pro vyšetøování a hodnocení pùd
+3746	Zaøízení na mìøení spotøeby tlakového plynu
+3835	Vysokonapìovı kapacitor a mìøící dìliè napìtí
+3885	Zapojenie dvojosového poèítaèom riadeného optoelektronického snímaèa polohy a rozmerov
+3887	Mìøidlo pro mìøení prùmìru
+4132	Prùtokomìr s promìnlivım prùtokovım prùøezem
+83 Z	pùsob zjišování hodnot pro seøizování rozmetadla minerálních hnojiv pro poadovanou šíøkurozmetání a mnoství hnojiva urèitého druhu a zaøízení k provádìní tohoto zpùsobu
+267	Zaøízení k identifikaci a mìøení absorbce elektromagnetického záøení povrchem tìles
+841	Zapojení domovního vodovodu na teplou vodu
+900	Optoelektronickı zpùsob kontroly rozmìrù prismatického pøedmìtu
+990	Elektronické èidlo zabezpeèovacího zaøízení sate litních antén a konvertorù SAT-ALARM
+1132	Zpùsob stanovení koncentrace látky v plynech a zaøízení k jejímu provádìní
+1149	Rozvod ústøedního vytápìní s jedinım mìøenım vstupem do kadého bytu vícepodlaních domù
+1358	Zpùsob a zaøízení pro stanovení závislosti kapacity nebo indukènosti na polarizaèním potenciálu nebo proudu
+1371	Drák zpracovávané jednotky, obsahující podešev a podpatek
+1516	Zpùsob mìøení pøestupujícího mnoství tepelné energie mìøením zmìn objemu média a zaøízeník provádìní tohoto zpùsobu
+1570	Stroj na vırobu trubek se šroubovitım švem
+1593	Zaøízení pro kontinuální mìøení hmotné nestejnomìrnosti svazku vláken
+1596	Zpùsob mìøení teploty pohybujícího se materiálu, zejména pásového materiálu
+1636	Zpùsob dobıvání uhelnıch slojí uhelnım pluhem
+1649	Brzdovı buben
+1676	Šroubovací zaøízení s ústrojím pro mìøení utahovacího pnutí ve šroubu
+1739	Zpùsob mìøení barevného sémantického diferenciálu osobnosti a zaøízení k jeho provádìní
+1775	Hlídaè maxima, zejména pro vıpoèet tarifu
+1835	Zpùsob urèení vozidla jedoucího nedovolenou rych lostí
+1870	Zaøízení pøedbìného varování pro tavicí pece
+1957	Zpùsob a zaøízení k mìøení reflektivity povrchù
+1958	Zpùsob automatické signalizace poruchy zobrazova cího øetìzce, zejména segmentovıch zobrazovaèù a zaøízení pro tento zpùsob
+2099	Pøístroj na mìøení oèní refrakce
+2165	Trubkovı vımìník tepla s promìnnım prùbìhem teplo ty pro konstantní pomìry mnoství vımìnnıch plynù a zpùsob vımìny tepla
+2179	Zapojení monitoru sítì
+2611	Zaøízení pro zkoušení funkce prùmyslovıch vah
+2710	Zpùsob mìøení ke stanovení vlastností zkoušeného vzorku a mìøicí zaøízení k provádìní tohoto zpùsobu
+2722	Dávkovací zaøízení pro kapaliny
+3167	Zpùsob dodateèné úpravy vodovodní vody a zaøízení k provádìní tohoto zpùsobu
+3433	Zpùsob a zaøízení k urèení dynamické hmoty a støední tøecí síly u vıtahovıch dveøí
+3467	Zaøízení k bezkontaktnímu mìøení povrchové teplo ty pohybujícího se objektu
+3797	Zpùsob urèení signálu o bodu dotyku tøecí spojky a zaøízení k provádìní tohoto zpùsobu
+162	Zaøízení pro regulaci intenzity pøívodu pøísad
+281	Zpùsob stanovení reaktivity uhlíkovıch produktù pro vzduch a oxid uhlièitı a indexu tvorbysazí a zaøízení k jeho provádìní
+291	Imunologická metoda pro stanovení derivátu hemo globinu
+375	Zpùsob stanovení pøedem urèenıch materiálù v pùdì a zaøízení k provádìní tohoto zpùsobu
+428	Zpùsob pøezkušování kvality pøedmìtu nebo stavu a pøístroj k provádìní tohoto zpùsobu
+584	Systém pro vlastní zhotovování cigaret a zpùsob pro vlastní zhotovování cigaret s filtrem
+615	Zpùsob vıroby neporézních slévárenskıch slitin hliníku, chudıch na obsah plynu a zaøízení kpro vádìní zpùsobu
+758	Automatickı øídící systém pro membránová èerpadla
+1014	Regulovanı pohon vynašeèe škváry
+1064	Zaøízení k mìøení spotøeby TUV v objektech s cirkulaèní smyèkou
+1105	Zaøízení pro vedení kabelù s alespoò jednou vodicí trubkou z termoplastu
+1191	Zaøízení ke zkoušení obruèe kola kolejového vozidla
+1321	Motorovı systém pro vozidla elektrického typu
+1362	Zpùsob detekce a analızy prvkù kovové povahy
+1399	Zapojení mìøièe kabelù
+1433	Zpùsob analızy polárních, nepolárních a povrchovì aktivních sloek v diagnostikovaném vzorku a zaøízení k jeho provádìní
+1490	Zpùsob mìøení obsahu iontù v roztoku a zaøízení k jeho provádìní
+1580	Zpùsob ovládání mechanického zatíení a ovládací systém k provádìní tohoto zpùsobu
+1827	Zaøízení k tepelnému opracování vırobkù ze skla a køišálu v rovinì kolmé k ose rotace
+1869	Zpùsob rovnání svarù kolejnicovıch stykù na kolejovıch drahách
+1879	Zaøízení pro vyprazdòování velkoobjemovıch nádob na odpadky
+1882	Soukolí, zpùsob jeho vıroby a zaøízení k provádìn í zpùsobu
+1910	Zaøízení pro kontinuální mìøení hmotové nerovnomìrnosti svazku vláken
+1924	Zpùsob monitorování tloušky a rovnomìrnosti tloušky prùhledného povlaku a zaøízení k provádìní tohoto zpùsobu
+1929	Zpùsob stanovení mnoství organickıch látek v kapalném vzorku a zaøízení k provádìní tohoto zpùsobu
+2237	Zpùsob detekce a mìøení aktivity neurotrofinù, zp ùsob klonování genu pro receptor tyrosinkinásy a rekombinantní molekula nukleové kyseliny její bu òka, mokroorganismus a bílkovina
+2390	Objemovı prùtokomìr
+2566	Zpùsob mìøení spektropolarimetrickıch vlastností opticky aktivních látek a dichrograf k provedení tohoto zpùsobu
+2906	Fluidickı oscilátor
+2933	Polarografická, elektrochemická a pøíbuzná mìøení na mini- a mikroelektrodách za pùsobeníultrazvuku, zaøízení a detektor k jejich provádìní
+45 Z	pùsob mìøení prùtoèného mnoství procesní tekutiny v Coriolisovì mìøièi a obvodová sestavapro pouití v mìøièi pro provádìní zpùsobu
+50 Z	aøízení pro mìøení vıchylky bøemene, zvláštì jeøábu
+260	Teplotní kompenzace biosenzorù
+472	Zpùsob kontroly a mìøení geometrie kol vozidel a opticko-elektronické zaøízení k provádìnítohoto zpùsobu
+486	Prùtoènı kotel
+559	Zpùsob hydrogenolytické redukce a zaøízení k provádìní tohoto zpùsobu
+588	Zpùsob detekce úniku radioaktivních plynù z jader ného reaktoru a zaøízení ke provádìní tohoto zpùs obu
+625	Systém pro plynulé monitorování elektrické vodivosti alespoò èásti støídavého vıkonového systému
+626	Zpùsob pneumaticko dynamické vıroby tvarovatelnıch vláknitıch rohoí s vysokou pevností v tahu z vláknitého rouna a zaøízení pro provádìní tohoto zpùsobu
+761	Zpùsob rychlého stanovení obsahu prvku a zaøízení k provádìní tohoto zpùsobu
+862	Zaøízení pro urèování fyzikálních vlastností tekutin
+898	Zpùsob nespektroskopického nezobrazujícího stanovení in vivo koncentrace NMR - detekovatelné xenobiotické slouèeniny
+926	Zaøízení pro mìøení a registraci mnoství a intenzity sráek
+970	Zpùsob a zaøízení pro urèování vlastností a/nebo sloení formovacího písku
+997	Zpùsob a zaøízení pro získávání minerálních vláken z termoplastického materiálu s vysokım bodem tání
+1010	Kalorimetrické mìøicí zaøízení
+1148	Tlaková sonda pro kvantitativní dùkaz škodlivin pøítomnıch ve spodní vodì
+1180	Zpùsob jemného obrábìní bokù zubù ozubenıch kol
+1264	Zaøízení pro navlhèování elektrárenského odfiltrovaného popílku
+1281	Zpùsob akceleraèního mìøení spalovacích motorù a vozidel
+1322	Zaøízení pro urèování nehomogenit v izolantech
+1323	Snímaè teploty
+1357	Karboxymethylcelulózové vlákno, zpùsob jeho pøípravy a absorpèní produkt toto vlákno obsahující
+1443	Zpùsob mìøení nekondenzovatelnıch plynù ve sterilizaèní páøe
+1461	Pøívodní trubice plazmového hoøáku
+1562	Zpùsob monitorování koroze a rychlosti rozkladu materiálu souèásti v reálném èase a zaøízení k provádìní tohoto zpùsobu
+1601	Pevná léková forma s øízenım uvolòováním úèinné látky
+1621	Zpùsob mìøení tloušky vrstvy a zaøízení k provádìní tohoto zpùsobu
+1909	Zpùsob tvarování pøíze a zaøízení k provádìní zpùsobu
+1917	Zpùsob a zaøízení na mìøení vlastností formovací hmoty
+1993	Zaøízení pro upevnìní pøedmìtu k povrchu podtlakem
+2130	Øídící systém pro klimatizaèní a chladicí zaøízení
+2274	Zaøízení a zpùsob zjišování vadnıch jadernıch palivovıch tyèí
+2323	Zpùsob urèení bodu dotyku tøecí spojky a zaøízení k provádìní tohoto zpùsobu
+2812	Zpùsob odstraòování rozpouštìdlovıch par z odpadního vzduchu a zaøízení k jeho provádìní
+2878	Mùstek pro mìøení magnetické susceptibility hornin
+2888	Vibraèní kuelovı drtiè a regulace jeho chodu
+2914	Vektorovı analyzátor obvodù
+2985	Zaøízení k mìøení tepla odevzdaného topnım tìlesem
+3002	Zaøízení pro zjišování pøetékání kapaliny nebo polotekuté látky z nádre
+3336	Sonda pro mìøení prùtoku kapaliny v trubici
+39 Z	pùsob a zaøízení na mìøení malıch èasovıch intervalù
+52 Z	pùsob regulace tlaku plynu v komoøe koksárenské pece a zaøízení k provádìní tohoto zpùsobu
+421	Zpùsob broušení kolejnic a vozidlo pro broušení kolejnic
+445	Posuvné mìøidlo s pøerušovanım snímáním hodnot èíselníkovım snímaèem pro vnìjší a vnitøní mìøení a mìøení vnitøních osazení
+595	Nabíjeè baterií
+671	Zpùsob a souprava pro vyhodnocení rizika vıvoje periodontitidy
+725	Zpùsob mìøení rozmìrù pøedmìtu a mìøicí zaøízení pro provádìní tohoto zpùsobu
+926	Polyethylentereftalatová vlákna se zlepšenım objemem a zpùsob jejich vıroby
+998	Elektrickı drák elektrody
+1037	Zpùsob a zaøízení pro urèení vnitøního tlaku uzavøené lahve
+1046	Pojízdné zaøízení
+1510	Zpùsob kontinuálního mìøení odporu pøíèného posuvu koleje a zaøízení k jeho provádìní
+1719	Zpùsob a zaøízení pro kontinuální lití tenkıch kovovıch vırobkù mezi dva válce
+1790	Zpùsob pøedvídání, kdy budou bakterie pøilnuté k povrchu vykazovat aktivní rùst
+1827	Materiál pro krytí ran
+1851	Automatizované zaøízení pro provádìní alespoò periodického odstraòování kovovıch iontù a zpùsob provádìní
+1871	Zpùsob a zaøízení pro sledování vnitøního obìhu fluidního loe v reaktoru, chladicí a mìøící ústrojí pro nì a reaktor opatøenı tímto zaøízením
+1896	Zpùsob sníení sráení asfaltu ze surové ropy
+1952	Zaøízení a zpùsob mìøení pevnosti adheze lepeného spoje
+2450	Sestava umoòující pøímé mìøení bodu varu kapaliny
+2565	Elektromìr napájenı baterií s pøepojitelnou mìøicí charakteristikou
+2696	Zaøízení ke zjišování vlastností prohozního kanálu tkacího paprsku tkacího stroje
+2731	Zapojení pro mìøení maxim trojfázového proudu
+2810	Zpùsob a zaøízení pro tváøení tenkıch kovovıch vırobkù mezi dvìma válci
+2896	Zpùsob detekce tvorby, pøítomnosti, vymizení nebo mnoství nemísitelnıch fází a zapojení kjeho provádìní
+2912	Zpùsob detekce nemisitelnıch fází na principu elektrochemické, elektromagnetické èi magnetické detekce
+2947	Odìvní souèástka
+2952	Zlepšenı spojovací systém
+2993	Zpùsob separace emulzí olej - voda obsahujících pevné látky
+3007	Zaøízení k mìøení koncentrace ozónu v plynném prostøedí
+3103	Zpùsob korekce vıstupního signálu mìøidla prùtoku vzduchu
+3113	Zpùsob monitorování koncentrace zvlákòovacího roztoku pøi vırobì produktu
+3413	Zpùsob detekce pøítomnosti elektrického kabelu a zaøízení k provádìní tohoto zpùsobu
+3467	Zpùsob stanovení obsahu biopaliva ve smìsi s minerálními palivy
+3504	Zpùsob a sestava systému pro øízení pøenosu tepla u ventilaèního nebo klimatizaèního pøístroje
+5 Zp	ùsob sledování stadia plodnosti
+43 Z	pùsob a zaøízení pro pøitlaèování snímacího ústrojí na soubor vláken ve vedení
+129	Testovací kit pro monitorování stadia ovulaèního cyklu
+414	Zpùsob kontinuálního dobıvání nerostnıch surovin a dobıvací stroj k provádìní tohoto zpùsobu
+448	Tepelnì izolaèní nádoba s elektrickım ohøevem
+553	Zpùsob stanovení charakteristickıch velièin proudìní tekutiny v potrubí a zaøízení k provádìní tohoto zpùsobu
+555	Regulace pøívodu látek do chemického reaktoru
+556	Zpùsob regulace koncentraèního pomìru reakèních sloek a zaøízení k provádìní tohoto zpùsobu
+563	Zpùsob vysílání a pøíjmu signálu obsahujícího mnoinu komunikaèních signálù a základnová stanice selektivního volání k provádìní tohoto zpùsobu
+616	Nìkolikaèlennı vytlaèovací stroj a zpùsob jeho regulace
+662	Testovací postup pro stanovení koncentrace imunofilin vázajícího léèiva v krvi, testovací souprava a pouití imunofilin vázající slouèeniny pro toto stanovení
+781	Zpùsob automatického ustavení drticí štìrbiny drticího stroje a drticí stroj
+786	Absorpèní vırobek
+890	Hydrostaticko hydraulické nivelaèní zaøízení k pøesnému mìøení rozdílnıch vıšek
+898	Zapojení pro kontrolu venkovních mechanismù stavitelnıch trojfázovımi pohony
+1002	Zpùsob a zaøízení pro odlévání kovového pásu
+1085	Balicí a dávkovací systém pro detergenty a jiné vodou zpracovatelné a/nebo provozní chemikálie
+1101	Zaøízení pro mìøení charakteristik kapaliny
+1599	Zpùsob øízení silnièního provozu prostøednictvím pøenosu zvláštních signálù
+1709	Zpùsob decentralizovaného napájení sbìrnice a zapojení k provádìní tohoto zpùsobu
+1767	Zpùsob pulzní regulace vytápìní
+1876	Zpùsob zjišování obsahu oxidu uhelnatého ve spalinách dvoustupòovıch spaloven
+1883	Zpùsob mìøení spotøeby tepelné energie a zaøízení k provádìní tohoto zpùsobu
+1939	Zaøízení pro mìøení rovinnıch geometrickıch útvarù
+2077	Zaøízení pro mìøení konvergencí podzemního vırubu
+2087	Zpùsob regulace chemické úpravy roztoku a zaøízení k provádìní zpùsobu
+2167	Zpùsob a zaøízení pro reprodukci bitového toku zaznamenaného na záznamovém médiu
+2282	Zaøízení pro zjišování okamité polohy letadel
+2363	Zpùsob a zaøízení pro automatickou regulaci polohy zastavení kabiny vıtahu
+2373	Zpùsob a zaøízení pro korekci pøesnosti zastavení kabiny vıtahu
+2379	Zpùsob vıroby vinylchloridu
+2689	Zpùsob zjišování nastavovacích dat pro odstøedivé rozmetadlo hnojiv
+2756	Krevní plynová sonda
+2757	Zpùsob stanovení toxicity, zaøízení k jeho provádìní, a pouití tohoto zaøízení
+2785	Èidlo k optickému zjišování pøítomnosti cizích tìles, zejména dešovıch kapek
+2949	Zpùsob mìøení tloušky rozmìrnıch tìles
+2984	Zpùsob regulace teploty v peci a zaøízení k vırobì cementového slínku
+3075	Zpùsob mìøení rozptylu svìtla na èásticích a zaøízení k provádìní tohoto zpùsobu
+3083	Nízkoodbìrovı magnetoelektrickı snímaè pohybu
+3171	Zpùsob urèování prvního parametru, pøípadnì prvních parametrù, pøedmìtu a zaøízení k provádìní tohoto zpùsobu
+3243	Zpùsob korekce pro navigaèní pøístroj s podporou mapy a navigaèní pøístroj s podporou mapyk provádìní tohoto zpùsobu
+3329	Zpùsob nedestruktivního mìøení zámkovıch sestav v cylindrickıch vlokách
+3355	Zpùsob urèování vlastností v motorovém vozidle zamontovaného tlumièe nárazù
+3451	Spektrometr a metoda podle Ramana
+3471	Zpùsob detekce evanescentnì excitované luminiscence
+3472	Zpùsob detekce evanescentnì excitované luminiscence
+3556	Zpùsob k promìøování obrazcù a zaøízení k provádìní tohoto zpùsobu
+3599	Zpùsob mìøení elektrochemické aktivity, mìøicí èlánek a ponorné mìøicí èidlo k provádìní tohoto zpùsobu
+3696	Nukleotidové sekvence pestivirovıch kmenù, polypeptidy kódované tìmito sekvencemi a jejichpouití v diagnostice a prevenci pestivirovıch infekcí
+3779	Zaøízení pro provádìní elektrochemickıch a biosenzorovıch mìøení
+3808	Elektronickı snímaè, zpùsob jeho vıroby a zaøízení pro provádìní tohoto zpùsobu
+20 Z	pùsob a zaøízení k mìøení rychlosti a ujeté vzdálenosti
+228	Pøístroj k mìøení hloubky profilu pláštì pneumatiky motorového vozidla
+324	Ultrazvukovı vysílaè namìøenıch hodnot pro urèení prùtokového mnoství proudící kapaliny
+410	Zpùsob monitorování zaèátku plodného období v ovulaèním cyklu
+445	Víceúèelové doplòkové zaøízení pro vırobu, opravy a renovace šroubovıch ploch šnekù
+471	Zpùsob mìøení a distribuce licího materiálu, zejména pro vırobu minerálnì vázanıch døevotøískovıch desek, a zaøízení k provádìní tohoto zpùsobu
+503	Zaøízení pro sklízení koøenovıch plodin s alespoò jedním dopravním prostøedkem
+544	Ochrannı jistiè s automatickım sledovacím zaøízením
+562	Mutantní forma termolabilního bakteriálního enterotoxinu Escherichia coli, prostøedek a vakcína s jeho obsahem a pouití této mutantní formy
+580	Zpùsob pro kontrolu tìsnosti potrubí, zejména kanalizaèních systémù, a zaøízení k provádìnízpùsobu
+611	Zaøízení pro mìøení vzdálenosti pomocí svìtelnıch vln a zpùsob urèování vzdálenosti cílového objektu
+750	Mìøidlo tepla pøípadnì chladu
+763	Motor se vstøikováním vody do válce
+891	Zaøízení pro urèení úseku s poruchou ve fyzikálním pøenosovém médiu telekomunikaèní sítì azpùsob urèení úseku s poruchou v úèastnické lince telefonní sítì
+904	Zpùsob ovládání aktivit bezpeènostního systému posádky vozidla a zaøízení k provádìní tohoto zpùsobu
+913	Vytlaèovací zaøízení a zpùsob vytlaèování
+923	Zpùsob a systém automatického øízení spalování v peci
+993	Snímaè prùtoku
+994	Postup praní a praèka k realizaci postupu praní
+1173	Stabilizaèní médium pro alfa-GST v moèi a zpùsob jeho stanovení metodou enzymové imunoanalızy
+1206	Zpùsob mìøení spotøeby pohonnıch hmot spalovacích motorù s elektronicky øízenım vstøikem paliva a zaøízení k jeho provádìní
+1489	Zpùsob a zaøízení pro urèování rychlosti eleznièního vozidla
+1620	Zpùsob a systém mìøení a seøizování tlaku pneumatiky
+1791	Zaøízení pro provádìní elektrochemickıch mìøení
+1792	Zaøízení pro provádìní elektrochemickıch mìøení ve sklenìnıch taveninách nebo v tavenináchsolí
+1943	Optické zkušební zaøízení pro vyhodnocování on-line svarovıch nebo pájenıch švù
+2234	Kompozice a lak rychle vytvrditelnıch vodnıch nátìrù
+2295	Zpùsob mìøení teploty prostøednictvím teplotnì závislého odporu
+2300	Telefonní stanice
+2371	Zpùsob rozebírání elektronického pøístroje a zaøízení k provádìní tohoto zpùsobu
+2411	Substituované indanylidinacetylguanidiny, zpùsob jejich pøípravy, jejich pouití jako léèiva nebo diagnostika a léèiva, která je obsahují
+2517	Zapojení transformátoru s dìlenım jádrem pro mìøení proudu
+2547	Kinasa pøíbuzná PIK kontrolního prvku bunìèného cyklu, látky a zpùsoby
+2615	Zpùsob identifikace jednopólového spojení se zemí v trojfázové síti
+2636	Zpùsob a zaøízení pro mìøení meze pevnosti v tlaku, prunosti, tvrdosti, tloušky nebo podobnıch vlastností pohybujícího se pásového materiálu, takového jako je pás struskové vlny
+2696	Zaøízení pro mìøení pracovního tlaku
+2844	Kazeta a zaøízení pro pouití pøi detekci analytu, zpùsob provádìní testu za pouití uvedené kazety, kit pro pouití pøi provádìní mnoiny elektrochemiluminescenèních testù a zpùsob detekce nebo mìøení analytu
+2857	Zapojení pro regulaci ventilace ovzduší v silnièních tunelech
+2967	Polem øízená polarizace nebo obnovování elektrod èi rozhraní fází a uspoøádání k jejich provádìní
+2968	Zpùsob vytváøení elektrod s èasovì øízenım povrchem a uspoøádání k jeho provádìní
+3181	Zpùsob a zaøízení k mìøení vzoru na èásteènì tepelnì vodivém povrchu, zejména mìøení otisku prstu
+3190	Obvod a zpùsob pro mìøení odporu
+3240	Zaøízení pro kontinuální mìøení okamité polohy pohybujícího se kolejového vozidla
+3241	Zaøízení pro kontinuální mìøení okamité polohy pohybujícího se kolejového vozidla
+3281	Zpùsob plynulé regulace vlhkosti sypkého materiálu a zaøízení k provádìní zpùsobu
+3339	Testování motorovıch vozidel a simulaèní jízdy na válcích
+3367	Systém zpìtné vazby pro regulaci nelineárních procesù
+3373	Ovládací soustava vıtahu
+3375	Zpùsob nastavení promìnného èinitele zesílení regulovaného posilovaèe brzdové síly a zaøízení k provádìní tohoto zpùsobu
+3663	Pneumatická pruina pro vozidla
+3698	Zaøízení pro rovnomìrné rozdìlování tøífázového elektrického zatíení
+3732	Zaøízení pro zjišování stavu zakøivení oblastí lidského tìla
+3756	Zpùsob urèování hmotnostního toku proudu zrnitého materiálu
+3786	Amorfní transparentní deska z krystalizovatelného termoplastu, zpùsob její vıroby a její pouití
+3931	Zpùsob a zaøízení k detekci a mìøení podmínek ovlivòujících barvu
+3985	Zpùsob regulace procesu syntézy chemickıch produktù a zaøízení pro provádìní zpùsobu regulace
+4082	Zpùsob øízení modeláøskıch elektromotorù inteligentním regulátorem otáèek
+4108	Zpùsob pro udrení obecnì konstantní amplitudové odezvy na pøedem urèenı mìøenı vstup a zaøízení k jeho provádìní
+4161	Vícevrstevnı reagenèní testovací prouek a zpùsob mìøení analytu ve vzorku
+4240	Boèníkovı systém
+161	Numerickı zpùsob demodulace a dekódování
+271	Zpùsob stanovení albuminu ve vzorku obsahujícím volnı hemoglobin
+491	Zpùsob mìøení povrchovıch a mezifázovıch napìtí s moností øízené komprese i expanze rozhraní a sledování èasovıch zmìn a zaøízení k jeho provádìní
+777	Zpùsob øízení otáèek tiskovıch válcù tiskaøského stroje a tiskaøskı stroj k provádìní zpùsobu
+875	Digitální urèování rychlosti pøi ultrazvukovıch mìøeních proudìní
+1046	Zpùsob pøedpovídání fyzikálních vlastností zbytkového surového oleje, zbytkového topného oleje nebo ivicového materiálu
+1047	Prùchozí komùrka pro zaøízení pro mìøení blízkého infraèerveného spektra uhlovodíkového materiálu
+1073	Zpùsob a zaøízení k dopravì a dávkování suchého hnìdouhelnatého prachu do topeništì parního generátoru
+1088	Zpùsob a zaøízení pro vytváøení povlékaného proudu skloviny
+1166	Pouití proteinu S-100 v medicínì a léèivo obsahující protein S100-b
+1551	Pøístroj pro mìøení filtrovatelnosti kapalin
+1587	Zpùsob stanovení hodnoty transpiraèního proudu u rostlin a zaøízení pro provádìní tohoto zpùsobu
+1699	ebrovı materiál
+1862	Zaøízení pro nanášení úseku kordu a zpùsob pøesného nanášení kordu
+1896	Zpùsob dynamického mìøení lineárních, rotaèních a kıvavıch pohybù mìøicí soustavou obsahující alespoò jeden inkrementální snímaè pohybu a pøesnı generátor a mìøicí soustava k provádìní tohoto zpùsobu
+1922	Optickı proudovı senzor pro mìøení velikosti proudu
+2153	Zlepšování povrchù kovovıch substrátù pomocí laseru
+2179	Vynášecí zaøízení
+2266	Prùtokomìr
+2314	Zpùsob analızy a testování extrahovatelnıch, mezifázovì aktivních a nahromaditelnıch sloek èi fází
+2315	Zpùsob pøípravy nemísitelnıch a elektrodovıch rozhraní s øízenou velikostí a s jehlovımi kapilárními NC-elektrodami a uspoøádání k jeho provádìní
+2368	Zpùsob a zaøízení pro mìøení vıšky øezacího stolu
+2514	Zpùsob zjišování prùmìrného sálání vrstvy paliva
+2543	Anorganickı materiál v granulární formì a kosmetickı prostøedek
+2553	Viskoelastometr pro mìøení viskoelasticity tkání ivıch organismù
+2918	Zpùsob dekompozice a sestavování obecnıch mikropoèítaèovıch systémù
+3131	Zpùsob vytlaèování, vytlaèovací stroj a vırobek podle tohoto zpùsobu
+3142	Souprava pro urèení aproximativní prùchodnosti mezizubního prostoru a sonda pro takovou soupravu
+3201	Zpùsob mìøení sil na mìrném dvojkolí
+3287	Zpùsob vyhodnocení toèivého momentu spalovacího motoru
+3338	Zaøízení pro kvalitativní a/nebo kvantitativní magnetickou detekci analytù
+3564	Odbìrová sonda pro mìøení kyslíku na zaøízeních parních generátorù vytápìnıch uhelnım prachem
+3633	Regeneraèní oxidaèní zaøízení
+3639	Otoèné odøezávací zaøízení a zpùsob odøezávání
+3766	Metoda a pøístroj pro pøedání komunikace s pøerušením øízeného mìøením v systému s kódovımdìlením
+3770	Zpùsob detekce úniku paliva a zaøízení k jeho provádìní
+3837	Zpùsob anodické pasivace molybdenovıch elektrod a skláøská pec k provádìní tohoto zpùsobu
+3895	Zpùsob odstranìní rušivého vlivu hemoglobinu pøi analıze lékaøskıch vzorkù
+3910	Zpùsob analızy medicínskıch vzorkù, které obsahují hemoglobin
+4127	Zpùsob urèování hovorného telefonního hovoru, spojeného do bezdrátového telefonního automatu, a telekomunikaèní systém
+4153	Prstencovı prùtokomìr s automatickım loiskovım závìsem plováku
+4308	Systém a zpùsob monitorování provozního stavu elektrického motoru
+16 A	bsorpèní vırobek
+43 Z	pùsob a zaøízení pro mìøení tloušky stìny nádoby
+304	Povrch sportovního høištì a zpùsob jeho úpravy
+353	Zpùsob zhotovení membránového zásobníku
+720	Syntetická pryskyøièná kompozice odolná proti poškození teplem a její pouití
+818	Zpùsob mìøení chemicko-fyzikálních parametrù v pohyblivém proudu tìiva a zaøízení k provádìní tohoto zpùsobu
+864	Zpùsob sledování èinnosti zaøízení pro pøívod abrazivní látky pomocí tekutiny
+908	Zaøízení k promìøování pilovıch listù
+1077	Zpùsob generování povelù pro øízení vıkonu v uzavøené smyèce systému pro øízení vıkonu v komunikaèním systému CDMA
+1089	Kosmetickı prostøedek a zpùsob ošetøování pleti
+1103	Zpùsob a zaøízení pro nabíjení a vybíjení piezoelektrického prvku
+1259	Zaøízení pro mìøení tloušky sklenìné vrstvy v boèní stìnì sklenìného zásobníku a zpùsob mìøení tloušky alespoò jedné z mnoiny sklenìnıch vrstev sklenìného zásobníku o rozdílnıch sloeních
+1275	Zaøízení k mìøení hmotové nerovnomìrnosti svazku vláken
+1296	Zpùsob zjišování poruchy v podloí komunikace a zaøízení k provádìní tohoto zpùsobu
+1438	Zpùsob vıroby palivovıch pelet a zaøízení k provádìní tohoto zpùsobu
+1471	Zpùsob a zaøízení k identifikaci kovovıch kotouèù
+1899	Zpùsob a zaøízení pro mìøení trvalıch délkovıch deformací materiálù
+1940	Zpùsob vıroby foliovıch sáèkù a zaøízení k provádìní zpùsobu
+2019	Elektromechanicky ovládaná kotouèová brzda
+2020	Zpùsob zjišování nestability hoøení tuhıch paliv
+2252	Navigaèní systém
+2549	Mechanizmus pro mìøicí zaøízení
+2584	Zpùsob detekce/mìøení tvorby, pøítomnosti èi vymizení nemísitelné fáze, nebo sloení systému a uspoøádání k jeho provádìní
+2623	Iniciace vícecílového trasování s pasivním mìøením úhlù
+2707	Zaøízení pro automatické vyhodnocování stavu odvalovacího pásu na kolech jedoucích vlakù
+2760	Zpùsob odpalování pøenosnıch raket a zaøízení k provádìní tohoto zpùsobu
+2818	Zaøízení a zpùsob na mìøení soustrunickıch parametrù eleznièních dílù
+2820	Zaøízení a zpùsob na mìøení nekruhovitosti a prùmìru eleznièních kol
+2983	Zpùsob vysoušení pevné izolace vinutí vıkonovıch transformátorù a zaøízení k provádìní tohoto zpùsobu
+3149	Zpùsoby pro vyhledávání novıch antivirovıch èinidel
+3187	Zaøízení pro mìøení teploty taveniny
+3277	Zpùsob mìøení radioaktivity radioaktivního materiálu uzavøeného v kontejneru
+3565	Intervalové øízení rychlosti srdce pro kardiopulmonární intervalové cvièení
+3579	Zpùsob mìøení a vyhodnocování parametrù funkce plic
+3815	Zpùsob stanovení mìrného povrchu práškovıch hmot a zaøízení pro jeho provádìní
+3852	Zaøízení k urèení parciálního tlaku alespoò jednoho plynu ve vydechované smìsi plynù, jehopouití a zpùsob monitorování vıchylek vdechování lidského nebo zvíøecího tìla
+3882	Mechanicky èištìnı filtrovací systém
+4028	Zaøízení pro mìøení doby volného pádu mnoiny svazkù regulaèních tyèí do jádra jaderného reaktoru a zpùsob mìøení
+4069	Zpùsob regulace reluktanèního motoru
+4165	Zaøízení pro mìøení sluneèního záøení
+4336	Zpùsob urèování skuteèné teploty reálnıch tìles
+4351	Zpùsob a zaøízení pro zjišování skuteèného stavu horké trubky
+4400	Zpùsob mìøení piezoelektrickıch posunutí pomocí laserového interferometru a laserovı interferometr k provádìní tohoto zpùsobu
+4544	Zpùsob k bezdotykové kontrole pøíze na dopøádacím nebo soukacím stroji a zaøízení k jeho provádìní
+4634	Ohıbací lis
+2 Zp	ùsob urèování mnoství pevného a/nebo kapalného materiálu obsaeného v dvoufázovém proudìnís plynnım nosnım médiem
+21 S	ystém pro vytváøení, zmìnu a/nebo vizuální znázornìní programù pro øízení brousicích strojù
+31 Z	pùsob kontroly provozního stavu vıkonového transformátoru a jeho pøíslušenství a zaøízení kjeho provádìní
+38 Z	pùsob mìøení tloušky stìny mezi povrchy sklenìnıch vırobkù tváøenıch za tepla a zaøízení pro mìøení tloušky stìny tváøenıch dutıch sklenìnıch vırobkù
+71 Z	aøízení pro kontrolu kvality loiskovıch kulièek, zejména pro bezdotykovou kontrolu lesku apovrchovıch kazù
+117	Zpùsob zamìøování koleje
+127	Zpùsob inertizace k sníení rizika a k hašení poárù v uzavøenıch prostorách
+193	Zaøízení a zpùsob pro nepøetritou kontrolu tìsnosti uzavíracích vík u kontejnerù na radioaktivní materiály
+216	Zpùsob a zaøízení pro vıbìr základové stanice pro komunikaci s uivatelskou stanicí
+390	Zpùsob automatického pøidìlování adres, komunikaèní systém, nadøazenı úèastník komunikace aúèastník komunikace
+443	Zpùsob a zaøízení pro øízení stabilní práce odstøedivého kompresoru
+492	Zpùsob prùkazu zmìny psychoakustické citlivosti
+623	Zpùsob øízení pneumatického zatìovacího zaøízení a pøístroj pro provádìní tohoto zpùsobu
+689	Aparatura na mìøení viskozity a zpùsob jejího mìøení
+717	3d-pøístroj k mìøení páteøe
+776	Papírovı nebo plastovı pytel, zvláštì ventilovı pytel, s trhacím jazıèkem a zpùsob jeho vıroby
+887	Monitorovací zaøízení pro monitorování adheze hnací jednotky elektrického eleznièního vozua regulaèní systém s tímto monitorovacím zaøízením
+1179	Zaøízení na èištìní a dodávání vody
+1405	Kapalná uhlovodíková kompozice, kompozice základní sloky maziva a kompozice mazacího oleje
+1407	Pouití TNF antagonistù pro vırobu drog k léèení septickıch poruch
+1424	Zpùsob odhadu systematické odchylky u systému sledování cíle
+1432	Bezpeènostní zaøízení pro nádr se stlaèenou kapalinou
+1585	Zpùsob a zaøízení pro vysokorychlostní pøenos dat v paketech
+1939	Zpùsob optimalizace cyklické funkce úpravny vody a zaøízení k jeho provádìní
+1941	Soustava k urèování pøítomnosti nebo obsahu analytik v krvi
+1995	Analogové èidlo hladiny kapaliny
+2162	Zpùsob a zaøízení pro inhalování léku
+2185	Sestava stojanu pro pyrometr a stupnì trysek
+2192	Zpùsob a zaøízení pro urèování vlastností prvkù komunikaèního zaøízení pod zatíením
+2410	Pasivní telekomunikaèní monitorovací systém
+2599	Zpùsob pro èasovou synchronizaci vyuitím mobilních stanic v CDMA komunikaèním systému
+2735	Zpùsob zapøádání pøíze na pracovním místì rotorového dopøádacího stroje a zaøízení k jehoprovádìní
+2773	Støelná zbraò, opatøená systémem pro umonìní støelby
+2823	Optickı obvod k získání monitorovacího signálu
+2941	Magneticko-indukèní zpùsob mìøení prùtoku proudících médií
+3001	Zpùsob plnìní a plnicí zaøízení
+3022	Léèení a diagnostika onemocnìní zprostøedkovanıch makrofágy s pouitím ligandù FC receptorù
+3039	Pøístroj k mìøení kvality pøíjmu rádiového signálu
+3067	Zaøízení pro pøipevnìní prstencového upevòovacího orgánu tlakem
+3105	Zpùsob øízení tloušky stìny trubky ve vícestolicové kontinuální tahové redukovnì trub
+3215	Nízkoprofilovı pøístroj na mìøení tlaku
+3216	Systém pro regulaci teploty tìlního jádra jedince
+3303	Úlonı absorpèní èlen s vysokım kapilárním sáním k absorbování tìlesnıch kapalin
+3304	Úlonı absorpèní èlen s vysokım kapilárním sáním obsahující materiál s velkou plochou povrchu na absorbování tìlesnıch kapalin
+3320	Mìøicí systém pro mìøení posuvu souèástí rotoru
+3365	Zpùsob pro mìøení ozubenıch kol a zaøízení k jeho provádìní
+3387	Zpùsob regulace, sledování a kontroly procesu tváøení v tváøecím stroji, zejména nıtovacímstroji, a tváøecí stroj pro provádìní tohoto zpùsobu
+3486	Zpùsob kalibrace vlnové délky v zaøízení pro filtraci elektromagnetického záøení
+3487	Zaøízení a zpùsob pro pøímé mìøení tepelné energie obsaené v hoølavém plynu
+3565	Zpùsob automatické kontroly a øízení obsahu povrchovì aktivních látek ve vodném èisticím roztoku
+3578	Zpùsob mìøení rychlosti resorpce kosti
+3609	Zpùsob nastavení charakteristik hoøákù
+3725	Zapojení a uspoøádání elektrod pro mìøení tloušky stìny z vodivého materiálu
+3884	Zpùsob vyhodnocování chemickıch a biologickıch vzorkù, získanıch z maticovıch hybridizaèních testù
+4001	Zpùsob uloení hodnoty spotøeby elektrické energie v elektromìru a elektromìr s uloením této hodnoty
+4034	Zaøízení pro nárazové chlazení boèní stìny vedle podøíznuté oblasti segmentu trysky turbíny
+4035	Zaøízení pro nárazové chlazení boèní stìny segmentu trysky turbíny
+4069	Zaøízení pro bezdotykové mìøení lineárního textilního útvaru, napø. pøíze, niti, textilního vlákna, pramene vláken
+4070	Zaøízení pro bezkontaktní mìøení parametrù lineárního textilního útvaru
+4312	Zaøízení na pøechovávání zkapalnìného plynu pod tlakem
+4361	Pitotova statická trubice
+4578	Zaøízení a zpùsob regulace rastrového snímaèe v terapii iontovımi paprsky
+4582	Stanovení úèinkù léèiva na krevní parametry v podmínkách in vivo
+4598	Zamìøovaè, zejména pro ruèní zbranì
+4697	Zpùsob kontroly prùmìru sloupcù, vytvoøenıch v zeminì injektováním pod tlakem
+4710	Zdvihovı øetìz
+4752	Pøístroj pro mìøení teploty ve zplyòovacím procesu a rektor zahrnující tento pøístroj
+4814	Zpùsob zpracování kalu
+4825	Zpùsob a zaøízení pro mìøení rozloení teploty v materiálu, zejména tkáni
+4867	Zpùsob vyhodnocování a/nebo pøedpovídání úèinku léèení specifickou protialergickou vakcinací
+4928	Rezonaèní deska drnkacího nástroje, zvláštì akustické kytary
+4930	Zaøízení pro odstraòování bojovıch prostøedkù
+127	Koreèkové rıpadlo a zpùsob regulace pohonu
+356	Zpùsob a zaøízení k mechanickému obrábìní obrobkù a manipulaci s montovanımi èi demontovanımi konstrukèními skupinami
+370	Systém na mìøení teploty a pøíslušnı optickı spínaè
+562	Bramborové hranolky peèené v troubì s prodlouenou dobou pouitelnosti
+658	Vysokoafinní monoklonální protilátka, polynukleotidová molekula a klonující vektor
+671	Zpùsob k optické detekci neèistot, zejména cizích vláken, v podélnì se pohybující pøízi a zaøízení k jeho provádìní
+731	Systém pro kontrolu spotøeby média
+750	Elektrochemické èidlo plynu a zpùsob urèení plynovıch komponent
+872	Vodné roztoky azobarviv, zpùsob jejich pøípravy a pouití
+882	Zpùsob kontroly funkceschopnosti katalyzátoru pro odpadní plyny
+1102	Systém pro pøenos dat, napøíklad pro jízdní kola závodního typu
+1118	Podbíjeèka pro podbíjení koleje
+1165	Zaøízení pro mìøení odstupu
+1230	Zpùsob mìøení malıch, periodickıch vlnitostí na povrchu a zaøízení k provádìní tohoto zpùsobu
+1540	Zpùsob kvalifikace smyèek pro datové sluby a zaøízení k tomuto zpùsobu
+1602	Zaøízení pro evidování tepla vydávaného topnım tìlesem a pro regulaci teploty v místnosti
+1639	Zpùsob prodluování ivotnosti vıkonovıch transformátorù
+1681	Zaøízení na mìøení hmotnosti baleného produktu
+1730	Zaøízení k urèování hladiny chladicího prostøedku v reaktoru
+1767	Zpùsob zjišování vìtrání oknem a zaøízení k provádìní tohoto zpùsobu
+1815	Léèebnı systém a postup ovládání systému vyuívanı pacientem pøi samoléèbì
+1861	Zpùsob mìøení èistoty povrchu a nástroje na mìøení èistoty povrchu
+1929	Zpùsob vylepšení pøesnosti mìøení laserovım interferometrem
+1930	Tlakovı snímaè
+1998	Troferutin s vysokım obsahem trihydroxietylrutinu a zpùsob jeho vıroby
+2053	Zpùsob a zaøízení pro èištìní hliníku segregací, a jejich pouití
+2097	Orientaèní a navigaèní systém
+2098	Zpùsob sledování dopravníkovıch pásù a dopravník s pásem a se zaøízením pro sledování podle tohoto zpùsobu
+2132	Zpùsob a zaøízení pro obrábìní pøedobrobenıch souèástí
+2368	Kompresorové zaøízení s kompresorovım prvkem se vstøikováním vody
+2441	Zpùsob a zaøízení pro mìøení obsahu vlhkosti døevìnıch štìpin
+2455	Zpùsob urèení extraktu pùvodní mladiny v pivu
+2475	Zapojení trojfázovıch napájecích obvodù voltmetru pro hladiny nn, vn a vvn
+2514	Pøípravek obsahující slouèeniny na bázi flavyliovıch solí, nesubstituovanıch v pozici 3, urèenı na umìlé zbarvení pokoky a jeho pouití
+2646	Zpùsob mìøení hustoty kalu
+2686	Zpùsob øízení vıkonu fluidního kotle se stacionární fluidní vrstvou s oxidaèní atmosféroua zaøízení pro provádìní tohoto zpùsobu
+2738	Zpùsob a zaøízení na vytváøení palivové smìsi pro spalovací ústrojí
+2742	Zaøízení pro mìøení prùtoku a mnoství plynù nebo kapalin
+2905	Mìøicí zaøízení
+3104	Zpùsob mìøení objemu proudicího media a mìøicí pøístroj k tomuto úèelu
+3126	Zpùsob radionuklidového znaèení protilátky konjugované s chelatotvornım prostøedkem a vazebnı test
+3227	Zpùsob stanovení mìrné elektrické vodivosti a zaøízení pro jeho provádìní
+3315	Zpùsob kompenzace mechanického kmitání, zejména v tiskaøskıch strojích
+3341	Polypeptid z H. medicinalis, zpùsob jeho pøípravy a pouití, farmaceutickı prostøedek, polynukleotid, expresní vektor, hostitelská buòka, protilátka a její pouití
+3356	Zpùsob mìøení aktivace basofilù po stimulaci alergenem pro stanovení pøecitlivìlosti na tento alergen a pøíslušnı kit
+3438	Zaøízení a zpùsob regulace pøívodu vodní páry do kompresoru plynové turbíny
+3663	Zpùsob zapøádání na bezvøetenovıch dopøádacích strojích a zaøízení k jeho provádìní
+3687	Zpùsob mìøení rychlosti kolejového vozidla a zaøízení pro jeho provádìní
+3710	Zpùsob monitorování hladiny plnìní kulového mlınu
+3902	Sklenìnı dílec obsahující alespoò jednu tabuli skla
+4047	Zpùsob a zaøízení pro mìøení elektrickıch vlastností nádorové tkánì
+4063	Ovládací sestava
+4087	Palivová smìs, zpùsob prodlouení èasového intervalu mezi procesy mytí turbíny pøi spalování popel obsahujícího paliva v turbínì a zpùsob provozu turbíny
+4093	Zaøízení pro bezkontaktní mìøení vzájemné polohy dvou èástí mechanismu
+4196	Dopravníková váha pro øízení plošné hustoty minerální vlny
+4243	Zpùsob kvantifikace minoritní genetické informace ve smìsi s majoritní
+4344	Konstrukt DNA
+4382	Zpùsob kalibrace matematického modelu
+4435	Elektroakustickı mìniè, zaøízení pro mìøení doby šíøení akustického a/nebo ultrazvukovéhosignálu v materiálu s plochım povrchem a zpùsob mìøení doby šíøení akustického a/nebo ultrazvukového signálu v materiálu
+4463	Datovı kabel a zpùsob jeho vıroby
+4552	Zaøízení na èistìní konstrukcí zamlenım vzduchem a zpùsob èistìní
+4561	Zaøízení pro bezdotykové mìøení vlastností pohybující se pøíze nebo pøízi podobného textilního útvaru
+4673	Zpùsob urèení proudnicového vzoru v prostoru a zaøízení k jeho provádìní
+4674	Zpùsob a zaøízení pro mìøení kulatiny
+4683	Zpùsob a zaøízení na mìøení tloušky zadní hrany
+23 Z	pùsob kontroly kvality injektáí a zaøízení k provádìní tohoto zpùsobu
+57 Z	pùsob vıbìru schématu oblièejové barevné kosmetiky
+180	Datovı kabel a zpùsob jeho vıroby
+322	Zpùsob provádìní tracheální insuflace plynu a zaøízení k provádìní tohoto zpùsobu
+425	Regulaèní zaøízení pro elektrickı motor s promìnnımi otáèkami a zpùsob jeho provozu
+431	Zpùsob nastavení a fixace ferule s optickım vláknem v optické konektorové zástrèce a zaøízení pro provádìní tohoto zpùsobu
+495	Zpùsob vıroby fosfonomethylglycinu
+585	Tenkostìnná vıstelka vysokotlaké nádoby
+602	Zpùsob regulace teploty vzduchu v místnosti
+769	Komunikaèní koncovı pøístroj a pøístroj pro základní stanici
+816	Zaøízení k regulaci odstupu vozidla
+953	Telekomunikaèní sí a zpùsob jejího provozu
+973	Zpùsob øízení tlaku v kabinì, øídicí zaøízení k provádìní tohoto zpùsobu a regulátor pro toto øídicí zaøízení
+1117	Vstøikovací ventil paliva a zpùsob jeho nastavení
+1140	Zpùsob øízení dodávky elektrické energie do elektricky pohánìného vozidla uzpùsobeného proprovoz v reimu napájení z vnìjšího napájecího systému nebo v reimu napájení z autonomního napájecího systému a systém k provádìní tohoto zpùsobu
+1226	Zpùsob a mìøicí sonda pro provádìní mìøení v systémech zásobování vodou
+1275	Zpùsob provozního mìøení navlhnutí celulózovıch materiálù ve vıkonovıch transformátorech azaøízení k provádìní tohoto zpùsobu
+1523	Zaøízení a zpùsob k mìøení fyzikálních parametrù v profilech pùdy a/nebo sedimentu
+1536	Léèivo pro léèení zácpy a syndromu drádivého traèníku
+1537	Systém se spoleènım vysokotlakım zásobníkem paliva (systém common-rail) a ventil
+1542	Zpùsob a zaøízení pro vytváøení informace o vzdálenosti od pøekáky pro nevidomé
+1563	Zpùsob urèení koncentrace analytu ve vzorku tekutiny a zaøízení k provádìní tohoto zpùsobu
+1594	Regulaèní systém a zpùsob pro ovládání pomìru vzduchu k palivu ve smìsi vzduchu a paliva hoøáku
+1613	Postup a zaøízení pro mìøení koncentrace škodlivıch plynù v kouøovıch plynech ve vytápìcímzaøízení uitím fotospektrometrie
+1721	Zpùsob a prostøeddek na mìøení ztráty optického vıkonu u vláknového optického konektoru
+1820	Zpùsob pro automatické sledování koncentrace analytu za pouití minimálnì invazivních zaøízení
+1857	Diagnostická jednotka
+1872	Zaøízení pro odstraòování rzi a nátìru a zpùsob tohoto odstraòování
+1910	Viskozimetr s dvojitou stoupací trubkou a jednoduchou kapilárou
+2019	Pevná perorální farmaceutická kompozice obsahující polymorf B N-(3-ethynylfenyl)-6,7-bis(2-methoxyethoxy)-4-chinazolinamin hydrochlorid
+2020	Pøístroj a zpùsob pro perkutánní odbìr biologické kapaliny a mìøení analytu
+2021	Pøístroj a zpùsob pro odbìr a mìøení sloky biologické kapaliny
+2022	Pøístroj a zpùsob pro perkutánní odbìr biologické kapaliny a mìøení analytu
+2023	Pøístroje a zpùsoby pro perkutánní odbìr biologické kapaliny a mìøení
+2024	Pøístroj a zpùsob pro perkutánní odbìr bilogické kapaliny a mìøení analytu
+2049	Nabíjeè akumulátoru
+2054	Parní turbína a zpùsob mìøení kmitání obìné lopatky
+2069	Modul èidla tlaku
+2158	Ruènì posouvatelné transportní zaøízení
+2173	Zaøízení citlivé na kontakt
+2206	Systém analızy pomocí testovacího prvku
+2228	Systémy parabolickıch zrcadel a základny záøivkového svítidla
+2318	Zpùsob provozování spalovny odpadù, regulaèní systém a spalovna
+2340	Zpùsob regulace hladiny systému pro zvlhèování plynného paliva
+2730	Zpùsob a zaøízení pro mìøení vùle lopatky turbíny
+2733	Elektrochemickı koagulaèní test a zaøízení pro jeho provádìní
+2735	Svaøovací hlava na svorníky
+2737	Zpùsob navaøování svorníku na polotovaru a zaøízení na pøivaøování svorníkù
+2922	Zaøízení na mìøení a optické znázornìní objemu kapaliny a zpùsob pøemisování mìøicí soupravy kapaliny
+2958	Souèasné stanovení vícefázovıch prùtokovıch rychlostí a koncentrací
+2961	Prùtokomìr
+3044	Zkušební stolice pro spalovací motory a zpùsob zkoušení jejich souèástí
+3086	Zaøízení pro mìøení parametrù ozubení
+3212	Kolorimetrické zkušební zaøízení se sníenou chybovostí
+3249	Rychle reagující elektrochemickı senzor pro monitorování hladiny glukózy
+3313	Zpùsob urèení barvy svìtla
+3332	Zpùsob stanovení koncentrace v tekutém vzorku a zaøízení k jeho provádìní
+3407	Komunikaèní pøenosovı systém a zpùsob komunikaèního pøenosu
+3602	Zpùsob vyrovnání posunutí snímaèù úhlù
+3620	Zpùsob a zaøízení pro spalování organické zbytkové látky
+3762	Zpùsob, zaøízení a bezpeènostní systém, vše k ovìøování pravosti znaèkování
+3767	Zpùsob mìøení vıhøevnosti plynù a mìøidlo pro provádìní tohoto zpùsobu
+3866	Zpùsob nedestruktivního elektrického mìøení úhrnné plochy absorpèních zón na koøenech døevin a zapojení k jeho provádìní
+3876	Zpùsob a reagenèní kit pro stanovení aktivity 5´-nukleotidázy
+3926	Zpùsob stanovení fyzikálnì mechanickıch vlastností semikrystalickıch polymerù
+3943	Zpùsob stanovování polohy a/nebo umístìní polohy objektu, zejména vozidla jako je vlak, pohybujícího se podél známé trasy, a zaøízení k provádìní tohoto zpùsobu
+3964	Zaøízení pro mìøení zejména rychlıch zmìn objemové aktivity radonu ve vzduchu
+4007	Plynomìr
+4241	Zámìrná osnova do puškohledu pro mìøení šíøky pøedmìtù
+4262	Zpùsob rozlišování plastù a zaøízení k jeho provádìní
+143	Zpùsob mìøení chybného místa u vysokofrekvenèních kabelù a vedení
+258	Zpùsob stanovení fermentace vlákniny a zaøízení k provádìní tohoto zpùsobu
+309	Zpùsob a systém pro mìøení tvaru kloubní dráhy, zejména dolní èelisti
+409	Elektrochemickı zpùsob mìøení rychlostí chemickıch reakcí
+416	Senzor antioxidaèního èinidla
+489	Systém pro paralelní analızu více vzorkù elektroanalytickımi technikami
+510	Zpùsob vyhledávání a analyzování informací v datovıch sítích
+548	Zpùsob neinvazního mìøení prùbìhu pulzové vlny krve a zaøízení k provádìní tohoto zpùsobu
+568	Zpùsob a zaøízení k detekci a selekci cizích tìles v cigaretách
+602	Dekorativní foukané sklo a zpùsob jeho vıroby
+872	Zpùsob a zaøízení pro simulaci støelby
+1048	Zpùsob mìøení doby prùjezdu a zaøízení k provádìní tohoto zpùsobu
+1118	Betonová konstrukce s dvojitì chránìnımi vıztunımi prvky
+1222	Zapojení pro mìøení elektrického proudu pomocí boèníku
+1249	Zpùsob a zaøízení pro odvlhèování potravin
+1336	Zpùsob ovìøování seøízení rovnaèky pro rovnání pøi pùsobení tahu a zaøízení pro seøizovánírovnaèky
+1342	Podávací zaøízení
+1345	Zaøízení a zpùsob pro kalibrování víceválcového rovnacího stroje
+1375	Katodická ochrana elezobetonu s napuštìním inhibitorem koroze
+1425	Zpùsob mìøení obsahu neèistot v dusíku, vodíku a kyslíku pomocí iontové prùletové spektrometrie
+1606	Integrovanı øídící systém dopravy
+1712	Zpùsoby získání oftalmickıch èoèek skıtajících oko se sníenou aberací
+1785	Zpùsob regulování rovnaèky urèené k rovnání kovovıch pásù, desek nebo tabulí v reálném èase, a rovnací zaøízení obsahující rovnaèku
+1889	Zaøízení pro dálkovou detekci mnoství vody, vodních roztokù a moèi v plenkovıch kalhotkách a plenkách
+1992	Lancetové zaøízení s kapilární vzlínavostí
+2084	Souprava pro mìøení délkovıch deformací materiálù
+2108	Zpùsob a zaøízení pro urèení polohy objektu v prostoru
+2161	Zpùsob na mìøení èasu provozu elektrickıch pøístrojù, na zpracování namìøenıch údajù a zaøízení na provádìní tohoto zpùsobu
+2262	Zpùsob regulace termodynamického procesu, zejména procesu spalování, a zaøízení k provádìní tohoto zpùsobu
+2318	Zpùsob a zaøízení pro regulaci vıhøevnosti topného plynu
+2393	Zaøízení pro mìøení èasovıch intervalù
+2557	Systém pro sbìr informací
+2618	Zpùsob identifikace poètu druhù a sèítání kokcidiálních sporocyst
+2650	Zpùsob a zaøízení k urèení koncentrace látky v tìlní tekutinì
+2734	Mìøiè mnoství tepla
+2784	Multifunkèní mìøidlo, zejména pro øemeslné pouití
+2797	Vozík pro vodorovné pøemísování motorovıch vozidel v automatickıch mechanickıch parkovištích
+2805	Pouití peptidovıch slouèenin, zpùsob zlepšení smìrování a absorpce lipozómù, zpùsob léèbya diagnostiky pacientù, diagnostická nebo zobrazovací testovací sada a pøípravek
+2885	Zpùsob mìøení anizotropie elektrické rezistivity materiálù a zaøízení k jeho provádìní
+2906	Odvádìcí systém pro zpracovávací zaøízení se øízenou atmosférou a zpùsob zachycování emisíz takového zaøízení
+2939	Paletovı zpùsob obrábìní
+3011	Prùtokomìr pro mìøení malıch prùtokù kapalin v trubicích malıch prùmìrù
+3069	Zaøízení pro mìøení a následné vyhodnocování vzájemné geometrie jednotlivıch dvojkolí
+3161	Zpùsob urèení minimální vzdálenosti mezi frekvenèními kanály u pøedvolenıch bunìk základovıch stanic
+3210	Dìliè vıkonu s diferenèními vıstupy
+3366	Zpùsob a zaøízení k odebírání vzorku z dávky tekutin
+3395	Zpùsob øezání monokrystalu v øezacím stroji a zaøízení pro provádìní tohoto zpùsobu
+3425	Zaøízení pro mìøení kvalitativních parametrù sonografù
+3453	Naviják tenkého pásu s váleèkem k mìøení rovnosti
+46 R	ozmìlòovací prostøedky pro inhalátory suchého prášku a inhalátor suchého prášku
+137	Zpùsob bezkontaktního mìøení povrchové teploty a/nebo emisivity objektù a zaøízení k provádìní zpùsobu
+290	Zpùsob a zaøízení k provádìní kontroly technického stavu a funkènosti hydrogeologickıch vrtù a studní
+309	Zaøízení pro mìøení pøímého sluneèního záøení
+375	Pøípojkové a mìøící centrum
+403	Zpùsob najídìní parního generátoru a parní generátor
+537	Zpùsob èištìní pùdy od tìkıch kovù
+593	Zpùsob klasifikace a zaøízení pro klasifikaci síovıch spojení
+594	Zpùsob urèování vıkonovıch rezerv datového pøenosu a bitovıch rychlostí pro síová spojení
+679	Zpùsob pøesného mìøení objemové velikosti vzduchovıch bublin v tekutinì proudící hadièkou
+770	Zpùsob detekce únavy operátora ze svalové èinnosti a zaøízení k provádìní tohoto zpùsobu
+779	Zdvihací øemen, zdvihací systém a zpùsob jeho provozování
+878	Vsazovací nástroj s prostøedky pro kontrolu vsazovacích procesù
+1007	Prùtoková komùrka s oplachovatelnım senzorem
+1031	Zpùsob optimalizace vırobní technologie válcovanıch vırobkù
+1058	Zpùsob mìøení tanosti pøízí a podobnıch délkovıch útvarù a zaøízení k provádìní zpùsobu
+1081	Zpùsob mìøení tvrdosti a/nebo hustoty pøízovıch návinù a zaøízení k jeho provádìní
+1095	Nádobka s pohyblivım víkem se senzorem pro mìøení rozpadu pìny
+1124	Zaøízení a zpùsob pro mìøení místní specifické absorpèní mohutnosti SAR
+1129	Oxykodon hydrochloridová dávková léková forma s øízenım uvolòováním pro perorální podáváníhumánním pacientùm
+1131	Zpùsob mìøení délkovıch nestejnomìrností pramenù textilních vláken a podobnıch délkovıch útvarù a zaøízení k jeho provádìní
+1152	Proporcionální snímaè napìtí, zejména napìtí v kosti
+1186	Zaøízení pro mìøení elasticity a zpùsob mìøení elasticity
+71 Z	apojení trojfázovıch napájecích obvodù voltmetru
+77 Z	pùsob a zaøízení pro vyrovnání mezer mezi zuby obrobku a pøedem vytvoøenımi zuby
+88 Z	pùsob øízení systému dálkové oboustranné komunikace mezi uivateli a objektem se zaøízenímipro kontrolu a mìøení a/nebo øízení objektu a zapojení k provádìní tohoto zpùsobu
+103	Vícestupòovı absorpèní separátor
+123	Zaøízení pro bezkontaktní mìøení vzájemné polohy dvou èástí otoèného mechanismu
+266	Zpùsob vyhledávání konce pøíze na cívce textilního stroje s individuálním pohonem hnacího válce navíjecího ústrojí a obsluné zaøízení k provádìní zpùsobu
+314	Zaøízení a zpùsob k mìøení šumu v obrazovém signálu
+363	Pouití makarpinu ke klasifikaci buòek prùtokovou cytometrií
+403	Zpùsob mìøení tvaru transparentních objektù, zejména broušenıch kamenù a zaøízení k jeho provádìní
+422	Mössbauerùv spektrometr
+434	Zpùsob zrovnomìrnìní kolísající koncentrace sloky nebo sloek v proudícím plynu
+609	Adaptéry pro mìøení vysokofrekvenèních síovıch odrušovacích filtrù
+633	Vìtrná farma a zpùsob jejího provozu
+9 Zp	ùsob a zaøízení pro mìøení a/nebo kalibraci polohy tìlesa v prostoru
+11 Z	pùsob stanovení reaktivity vápencovıch suspenzí a aditivovanıch vápencovıch suspenzí pro mokré odsiøování spalin
+123	Zpùsob a zaøízení pro zmìnu tuhosti mechanickıch konstrukcí
+128	Multifunkèní zaøízení k odstranìní borcení støech objektu v zimním období
+211	Termoèlánková sonda pro mìøení teplot v extrémních podmínkách s pouzdrem
+350	Zpùsob mìøení tloušky nestacionárních tenkıch vrstev a optickı tlouškomìr
+406	Mìøení tloušky transparentních mikrovrstev na transparentním substrátu a optickı kalibr
+439	Zaøízení pro kontinuální mìøení kmitù strunovıch tenzometrickıch snímaèù s dvouvodièovım pøipojením
+450	Zpùsob vytvoøení podkladové vrstvy s detekèním rastrem pro fotogrammetrické mìøení
+530	Zaøízení pro automatickou kompenzaci vertikálního poklesu a úhlového sklonu pøedního, vysouvaného konce horizontálnì vısuvné èásti vırobního, zejména obrábìcího stroje
+573	Systém pro mìøení biologickıch a technickıch velièin v prostøedí silného a promìnlivého elektromagnetického pole
+600	Zpùsob elektrochemickıch, voltametrickıch/polarografickıch a pøíbuznıch mìøení èi detekce do laboratorních, technologickıch èi pøenosnıch podmínek a zaøízení k jeho provádìní
+603	Zpùsob mìøení reakèní doby u zvíøat, zejména u koní, a systém pro mìøení této doby
+637	Zpùsob sledování okamité polohy a identifikace objektù, zejména letadel, lodí a pozemníchvozidel a zaøízení k jeho provádìní
+642	Pøetlakovı infiltrometr pro terénní stanovení vsakovací schopnosti pùd
+663	Zaøízení pro simulaci vlivu rozdílnıch souèinitelù teplotní roztanosti desky plošného spoje a pøipojené bezvıvodové souèástky na vlastnosti pájenıch a lepenıch spojù
+708	Vlhkomìr
+744	Zpùsob neinvazivního rozlišení fyziologického stavu, stresu a mutací rostlin pomocí nucenıch kmitù a zaøízení k provádìní tohoto zpùsobu
+745	Zaøízení na nedestruktivní stanovení kvality materiálu
+755	Zpùsob kvantitativního mìøení produkce nebo spotøeby plynù a zaøízení k provádìní tohoto zpùsobu
+757	Zaøízení slouící k nepøímému navádìní labovıch zrcadlovıch kolektorù na Slunce
+768	Multiaxiální variabilní silovı snímaè
+789	Zpùsob detekce exprese praseèí telomerázy

@@ -1,0 +1,1000 @@
+7666	Registrační zařízení pro pohyb plováku u měření hladin kapalin
+2308	Elektrické uspořádání příjmu k dálkovému měření, dálkovému ovládání, telefonování, telegrafování a podobně
+4353	Automatizovaná stanice pro komplexní zjišťování technického stavu motorových vozidel
+7700	Akustické čidlo k měření délkových změn
+2079	Zapojení pro automatizaci bezdotykového bodového měření metodou laser-dopplerovské anemometrie
+2516	Zapojení pro měření proudu
+3210	Detekční jednotka v zařízení pro měřeni radioaktivních aerosolů
+5097	Zařízení k měření tlakových rozdílů v potrubí
+5571	Zapojení pro vícekanálové měření na rotujících částech technologických jednotek
+6484	Zapojení k provádění korekce translačních tepelných deformací
+7373	Obvod pro číslicové měření veličin nepřímo úměrných času
+7941	Přístroj na měření přítlačné síly kartáče na komutátor nebo kroužek v elektrickém stroji
+9561	Způsob analýzy plynných směsí
+2280	Uchycení snímače v hlavici pro měření chvění
+3229	Zapojení k vytváření kontrolního signálu elektronických víceúčelových přístrojů pro měřeníkmitočtu a/nebo času
+4401	Způsob a zařízení pro měření úhlu sklonu rypadla
+5146	Zapojení k měření činné, nebo jalové složky střídavého proudu
+5449	Siloměrný člen
+5991	Způsob a zařízení k měření dynamické magnetostrikce na páskových vzorcích
+7128	Úložný snímač polarizačního potenciálu
+8178	Zapojení pro měření fázového posunu dvou sinusových napětí
+8627	Způsob měření výšky hladiny roztavené skloviny a zařízení pro provádění tohoto způsobu
+8639	Referentní elektroda pro elektrochemická měření
+8894	Zařízení k stacionárnímu měření magnetických vlastností tabulí plechů při střídavém magnetování
+1404	Způsob zjišťování polohy osy rotační válcové plochy součásti
+1482	Způsob zjišťování množství strusky, nalézající se během plynulého odlévání taveniny kovu vmezinádobě a zařízení k provádění tohoto způsobu
+1619	Způsob výroby lichoběžníkových závitů a šneků, měření a konečné kontroly
+3575	Způsob a zařízení ke zmagnetování měření, odmagnetování a třídění stálých magnetů
+5258	Zařízení ke stanovení rychlosti vytvrzování jádrových směsí
+8112	Elektromechanický převodník
+9247	Způsob a posuvné měřidlo na měření rozteče otvorů
+530	Způsob a zařízení k měření teploty nezávisle na koeficientu emise
+567	Zařízení pro dálkové plynulé měření teploty pomocí světlovodů
+758	Zařízení k měření energie elektromagnetického záření
+1160	Měřicí a řídicí stroj ke stanovení polohy polotovaru
+1301	Způsob řízení spojitého pořadí válcovacích tratí změnou válcovacího momentu
+1302	Způsob řizení spojitého pořadí válcovacích tratí
+1672	Způsob měření uhlovodíků neobsahujících metan v plynech a zařízení k provádění tohoto způsobu
+2400	Způsob a zařízení k regulaci střední tloušťky výlisků
+2932	Půdní vrták
+5075	Přístrojový blok ke kombinované radiomonometrii a debitometrii
+5955	Způsob měření množství tepla termoluminiscenčními detektory a zařízení pro jeho provádění
+6566	Zařízení pro ustavení požadované polohy dílce obsahujícího čelo a válcovitý otvor, jehož průměr má být změřen, vůči měřidlu
+7127	Způsob stanovení teploty vinutí elektrického stroje na střídavý proud při zatížení změnoutlaku
+7629	Zařízení a způsob měření tepla, zejména hydratačního tepla
+1318	Způsob kontinuálního horizontálího lití kovu a slitin
+1359	Zapojení k měření úchylek kruhovitosti rotačních obrobků
+1686	Zařízení pro snímání výšky hladiny kapalin ve stojatých nádržích
+2656	Enzymová elektroda pro měření glukózy
+3961	Zařízení pro měření spotřeby paliva u vozidel na válečkové zkušební stolici
+5459	Způsob programem řízené kontrolní zkoušky a vyhodnocení výsledků měření brzdícího ústrojímotorových vozidel a zařízení k provádění tohoto způsobu
+6887	Měřicí objímka pro měření elektrických obvodů
+7342	Zařízení pro měření otvorů s automatickým nulováním
+7737	Způsob vypínaní a zapínání usměrňovačů stanic katodické ochrany
+7973	Způsob měření korozního stavu úložných zařízení
+7983	Způsob zvýšení spolehlivosti enzymových čidel
+8341	Zařízení k opravě údajů u přístrojů pro měření plochy
+8569	Způsob prognózního určení svislé konvergence dlouhých důlních děl
+8994	Zařízení k měření útlumu povrchové vlny s frekvenčním analogovým výstupem
+9008	Zařízení k impulsní magnetické kontrole mechanických vlastností ferromagnetických výrobkův pohybu
+9242	Třídotekový mikrometr pro měření mělkých neprůchozích otvorů
+366	Způsob ochrany vykládacího zařízení varných kotlů s nepřetržitým provozem
+447	Jednoduchý převodník napětí, odporu na frekvenci
+930	Zapojení pro dálkové měření spotřeby elektrické energie a čistého strojního času důlních strojů
+982	Pyroelektrický detektor
+1617	Zapojení měřiče indukčnosti
+1687	Zařízení pro snímání hodnot tlaku
+2251	Systém elektronického měření špičkových a okamžitých hodnot tlaku, dýchání
+2278	Zařízení k měřeni zkreslení signálu s ohledem na jejich tvar
+2288	Zařízení pro měření zkreslení signálů podle jejich spektra
+3128	Měření diametru drátu
+3736	Zařízení pro měření průměru drátu
+4329	Způsob měření a vyhodnocování zpožďování magnetického toku v příčné ose stejnosměrného stroje a zapojení k provádění tohoto způsobu
+4796	Signální měřicí přístroj pro špičkový tlak s elektronickým obvodem pro zkrácení impulsů
+5964	Nivelační čidlo
+6124	Způsob měření průtoku tekutého media a zařízení pro provádění tohoto způsobu
+8202	Způsob měření průměru a radiálního házení oběžné dráhy kroužků axiálních kuličkových ložisek s kosoúhlým stykem
+9395	Zkušební telefonní zařízení
+818	Zařízení pro detekování rozdílů v barvě
+1543	Metoda dynamického vyvážení otočného stroje
+1916	Elektroda jiskrového počítače stop, určená pro měření nízkých i vysokých hustot stop
+2723	Způsob automatického řízení popelnatosti papírového pásu
+4488	Způsob kalibrace seismických snímačů vibrací
+4766	Způsob provedení anylýzy složek komplexního systému
+5454	Rozmístění pro vnější modulaci laserového záření na kysličníku uhličitém o velké hmotnosti
+5612	Zařízení pro měření výšky strusky v odlévací pánvi
+6329	Způsob měření příčného poloměru oběžné dráhy vnitřního kroužku soudečkového ložiska a zařízení k jeho provádění
+8960	Zařízení pro atestaci difrakční mřížky
+572	Rtuťová elektroda
+923	Zdroj impulzní zvukové vlny
+1066	Způsob měření zářivého toku a zařízení k provádění tohoto způ sobu
+1068	Hlavice přijímače zářivého toku
+1288	Stereokomparátor
+2079	Způsob fotografického měření rozložení povrchových teplot při so učasném dopadu rušivého osvětlení
+2353	Zařízení na měření teploty
+2363	Vertikálně pohyblivé klouzání a prokluzující zařízení
+2521	Způsob a zařízení pro nepřetržité měření nevelkých zakalení
+4657	Laserový impulsní dálkoměr
+5180	Způsob zjištění obsahu příměsí a teploty v slévaných kovech a sl itinách
+5691	Způsob geometrického výškového měření a zaměřovací cíl k jeho pr ovádění
+5695	Fóliový snímač pro měření povrchových trhlin
+5846	Způsob nestabilního dělení snímačů tepelného proudění
+5874	Schema zpracování impulsních signálů úměrných dýchacímu objemu
+7347	Messbanerův spektometr
+7506	Zařízení pro měření energie elektromagnetických impulsů záření
+8247	Schema předávání signálů pomocí světlovodů se střídáním vedení signálů
+8623	Automatické zařízení pro připojení drátěných výstupů
+9360	Způsob podávání útkové nitě na tryskovém tkacím stroji
+9556	Zařízení pro měření velkých rozměrů
+9620	Způsob měření tlaku v pneumatikách bez otvírání ventilu
+9625	Zařízení pro kontrolu hladiny taveniny v konvertorech
+54	Způsob a zařízení k měření rozdělení fází v nezpevněných násypov ých materiálech nebo zpevněných geologických jádrech
+724	Způsob a zařízení pro určování reologických parametrů sypkých materiálů
+913	Oftalmoreografický čítač
+915	Aplanační tonometr - tonograf
+1644	Fóliový čítač pro měření rozměrů povrchových trhlin
+2811	Optoelektronické zařízení pro měření polohy a orieantace pevného tělesa v prostoru
+2943	Zařízení k navlhčování a současnému mísení práškového nebo zrnitého materiálu
+3402	Přístroj pro měření nelineárních deformací
+3597	Magnetický průtokoměr
+4395	Způsob optimalizace spalování v komorových pecích pro vypalování uhlíkatých bloků a zařízení k provádění tohoto způsobu
+5069	Způsob třídění polykrystalických korundových podložek pro SVČ zařízení
+5725	Způsob zjišťování provozního stavu železničních tratí a zařízení k provádění tohoto způsobu
+5741	Zařízení pro měření dodávky paliva palivovou soustavou vznětovéh o motoru
+6072	Citový interferometr pro kontrolu odchylek od roviny povrchu
+6203	Způsob měření průměru drátu
+6307	Stupnice pro transformátoru pro měření posunu
+7694	Širokopásmový měnič signálů akustických vln
+8210	Diferenční adsorpční přístroj na měření struktury mezopórů adso rpcí dusíku
+8881	Zařízení pro záznam signálů z tenzometrů tvořících čtyřramenný most
+1000	Zapojení pro měření životnosti unipolárního tranzistoru
+1000	Zapojení pro vyhodnocování stárnutí unipolárního tranzistoru
+13	Elektrometrická soustava
+44	Schéma linearizace a normování skupiny charakteristik
+252	Zařízení pro optické měření torzního momentu rotujícího hřídele
+633	Zařízení pro třídění pohyblivých feromagnetických částí malých rozměrů
+877	Způsob měření tlakové pevnosti dutých vláken a zařízení k provád ění tohoto způsobu
+996	Způsob korekce poměrů páry a kyslíku ve směsi
+1060	Automatizované měření místa výskytu rtut@ového menisku
+2412	Způsob měření měnící se hustoty v průběhu délky vláknitého prova zce a zařízení k jeho provádění
+2860	Zařízení pro čištění a kontrolu kotoučových nosičů záznamu
+3056	Zařízení k provádění a vyhodnocování zkoušek tvrdosti materiálu obrobku
+3150	Zařízení pro měření pružné deformace povrchu konstrukce
+3218	Sedimentační žlab v aktivační nádrži
+3392	Převodník efektivní hodnoty napětí na stejnosměrné nap ětí
+3435	Způsob automatické kalibrace měřiče absorbance a zařízení k prov ádění tohoto způsobu
+3493	Způsob měření ustálené hodnoty teploty roztavené oceli
+3878	Zařízení pro měření vysokých napětí
+3880	Diferenční mikrokalorimetr
+4419	Zařízení pro měření tlaku a teploty proudícího média
+4432	Způsob společného zplyňování kapalných a pevných práškových pal iv
+4518	Zařízení pro integrovanou defektoskopickou kontrolu materiálu a výrobků při kombinované automatizované ultrazvukové a radioskopi cké zkoušce
+4773	Zařízení pro impulsní měření akustické impedance
+4845	Způsob sériového stříkání výrobků a zařízení k jeho provádění
+5535	Zařízení pro měření průtoku
+5696	Zařízení k navíjení útkových cívek
+5847	Způsob zjišťování rychlosti příze na textilních strojích a zařízení k jeho provádění
+5933	Průtokoměr pro měření zvláště pěnících kapalin
+6269	Zapojení pro stanovení kyslíku nebo oxidu uhličitého v plynných a kapalných prostředích
+6426	Způsob zhotovení jádra feromagnetické sondy
+6568	Způsob stanovení oprav na ztráty způsobené mrtvou dobou detekční ho systému
+6829	Kontaktovací zařízení pro měření integrovaných obvodů s plochým pouzdrem
+7037	Optický přenosový člen pro bezkontaktní měření teploty
+7242	Měřidlo pro měření rovnoběžnosti otvorů
+7571	Kapacitní měřič vlhkosti
+7636	Způsob měření délky a rozvoje trhliny v kovových materiálech
+7835	Zapojení měřiče výkonové úrovně přerušovacího optického záření
+7994	Indukčnostní snímací jednotka
+8167	Tlakový snímač
+8331	Tlakový snímač
+8537	Zařízení na měření výšky pro parašutisty
+8694	Dávkovací zařízení malých objemů kapalin o nízké viskositě
+8911	Zapojení k třídění prken
+215	Počítačový měřič harmonických průběhů
+374	Zařízení k zaměřování a k měření sklonu v trojrozměrném prostoru
+506	Zařízení pro měření napjatosti plasticky nebo pseudoplasticky deformujících se hornin
+571	Způsob měření tečné a normálné složky přítlačné síly
+983	Zapojení pro kontrolu výskytu elektrických impulzů
+1005	Způsob měření rychlosti a zařízení k provádění tohoto způsobu
+1064	Způsob zjišťování koeficientu difuze stavebních materiálů
+1115	Měřicí hlavice pro měření přilnavosti tenkých vrstev vrypovou metodou s přímočarým pohybemměřeného vzorku
+1120	Způsob optoelektronického měření otáček a zařízení k jeho provádění
+1277	Způsob měření a vyhodnocování rozptylu kapalných agrochemikálií a zařízení k provádění tohoto způsobu
+1604	Kompaktní detekční jednotka elektronového záření
+1664	Zařízení pro měření radiální vůle miniaturních valivých ložisek
+1781	Zařízení k automatickému měření profilů vnitřních prostor
+1957	Snímač tahových sil podélného útvaru, zejména osnovních nití
+2039	Způsob stanovení funkčních skupin alkydových a polyesterových pryskyřic
+2322	Zařízení pro měření průtoku tekutiny
+2366	Způsob automatické optimalizace spalovacího procesu v tepelných zařízeních a zařízení k provádění tohoto způsobu
+2616	Zařízení pro polní měření koeficientu spektrální odraznosti
+2631	Způsob proměření a opracování oblasti natvarování podešví svršků obuvi a zařízení k provádění tohoto způsobu
+2821	Zařízení pro měření přirozené radioaktivity vzorků stavebních materiálů
+3189	Zařízení na měření penetračního odporu
+3190	Zařízení pro uložení vzorku při měření vnitřního tření partikulá rních látek, zejména zeminy
+3191	Způsob měření součinitele vnitřního tření partikulárních látek za nízkých a vysokých tlakůa zařízení k provádění tohoto způsobu
+3310	Způsob měření, vytyčování a snímání polohy rotační osy podpěrných kladek a vodících prstenců rotační pece vzhledem k projektované poloze
+3582	Přístroj pro měření oděru nití
+3653	Zařízení pro měření teploty proudícího media
+4178	Provozní diagnostický přístroj pro měření parametrů elektrického hrazení zvířat
+4181	Způsob přesného nastavení polohy elektronového systému obrazovky a optickoelektrická soustava k jeho provádění
+4207	Pojízdný stroj k podbíjení, zdvihání a rovnání koleje
+4374	Způsob zjišťování výšky a zařízení k jeho provádění
+4654	Zapojení pro sledování výpadků napájecího napětí
+4790	Způsob ovládání změny škrticí polohy šoupátkového uzávěru
+4836	Plošný elektrooptický teplotní indikátor a způsob jeho ovládání
+4982	Triaxiální přístroj
+5337	Zapojení detektoru změny amplitudy střídavého signálu
+5474	Držák pro měření mikrovlnných tranzistorů
+5677	Způsob zvýšení přesnosti nebo spolehlivosti měření zařízení použ ívaných k měření charakteristických vlastností hromadných sypnýc h materiálů a zařízení k provádění tohoto způsobu
+5747	Školní zařízení pro měření výkonu zážehového motoru
+5922	Způsob měření měrné spotřeby paliva spalovacích motorů
+6188	Způsob měření šumu za tmy u zesilovačů jasu obrazu pomocí fotoelektrického násobiče
+6348	Zapojení pro měření časových intervalů pro rozhodování sportovních soutěží, zejména cyklotrialu
+6413	Videovoltmetr
+6436	Zařízení k měření kritického úhlu náběhu letounu
+6488	Způsob automatického zjišťování úhlové distribuce orientace povrchových vrstev polymerníchmateriálů
+6575	Zapojení na měření vlastností integračního zesilovače
+6795	Mechanické zatěžovací zařízení s tenzometrickým snímačem vyvozované síly
+6975	Přenosné zařízení pro měření indexu tvrdosti a pevnosti
+7152	Způsob nastavení teplotního koeficientu vybraného parametru mikroelektronické součástky
+7165	Vodorozpustný rozvětvený kationtový polymerní flokulant, způsob jeho výroby a jeho použití
+7578	Zapojení elektronických obvodů optoelektronického reflexního snímače se třemi vláknovými světlovody
+433	Postup určení optických ztrát ve vláknových optických vlnov odech v odraženém světle
+434	Způsob měření extrémně malých optických ztrát
+435	Způsob určení optických ztrát ve spojených optických vlnovo dech v odraženém světle
+436	Postup měření optických ztrát ve vláknových optických vlnovodech v odraženém světle
+437	Postup měření optických ztrát na čelech a v místech spojení optických vlnovodů v odraženémsvětle
+445	Způsob měření pohybu nákružků válečkových ložisek a zařízení k provádění tohoto způsobu
+503	Čidlo
+676	Zařízení na měření smykové pevnosti půdy v terénu
+812	Způsob měření poměrné spotřeby tepla
+982	Statický elektroměr
+1110	Způsob výroby profilovaného prvku kluzného ložiska a zařízení
+1146	Zapojení ultrazvukového indikátoru valivých ložisek
+1383	Čidlo objemového průtoku tekutin
+1396	Zařízení pro měření únosnosti a stlačitelnosti zemin
+1442	Způsob měření síly pomocí tenzometrického můstku a zapojení k provádění tohoto způsobu
+1634	Postup vstřikování plastických hmot a zařízení k provádění tohot o postupu
+1711	Lokální energetická jednotka
+1777	Způsob a zařízení pro měření popelnatosti a dopravovaného množst ví těženého hnědého uhlína dopravním pásu
+1793	Automatické měření tlouštěk vrstev vody na zpevněných pohybových plochách letišť a měřícízařízení k provádění měření
+1840	Programovatelný měřicí optický atenuátor
+1859	Uspořádání vysokoteplotního termočlánku
+2101	Způsob měření teploty pomocí odporového snímače a zařízení k provádění tohoto způsobu
+2150	Stíněná kabina pro měření leteckých radiokompasů a způsob přesného nastavení jejich elektrických parametrů
+2191	Způsob zpracování regenerovaného slévárenského písku
+2194	Přípravek k proměřování vůlí ve valivých ložiscích
+2232	Způsob zjištění počátku měření hloubky vrtané jamky
+2317	Detektor mastitidy pro dojnice
+2362	Způsob připevnění čidla pro měření spotřeby tepla k bodově svařovanému radiátoru z ocelového plechu
+2397	Elektrický snímač rychlosti proudění kapaliny nebo plynu
+2428	Zapojení pro nastavení rozhodovací úrovně u lineárních obrazových snímačů
+2462	Způsob a zařízení na optimalizaci zpracování bavlny v přádelně
+2693	Způsob stanovení velikosti nohy pro výběr odpovídající velikosti obuvi a kopyto pro tvarování této obuvi
+2837	Laminát a způsob jeho výroby
+2913	Sonda pro měření teploty tekutého kovu v licím proudu
+2945	Způsob měření tlaků v systému automatického sběru dat
+2970	Sonda se ztratnou kotvou
+2971	Termometrická sonda se ztratnou kotvou
+3017	Upínací mechanismus s horizontálním pohybem upnutých tyčí v induktoru
+3157	Zapojení tribopolarografické analytické jednotky pro snímání a vyhodnocení proudové křivky
+3204	Způsob měření radioaktivity kovových nebo cement obsahujících př edmětů
+3423	Rotační viskozimetr
+3556	Tlakový měřič parního výkonu parogenerátoru
+3718	Měřicí systém souososti
+3775	Způsob měření ozáření
+3932	Technické zařízení pro odhad intenzity zvuku v libovolném typu akustického pole pomocí jednoho mikrofonu
+4145	Způsob a zařízení pro zpracování měkce ohebných kusů plošného materiálu
+4195	Rotační spojka pro bezkontaktní přenos signálů optickým zářením s bezkontaktním přenosem elektrické energie
+4298	Měřicí zařízení ke zjišťování dráhy nebo úhlu natočení
+4384	Způsob výroby organického hnojiva řízenou aerobní fermetací
+4415	Směsné činidlo pro stanovení iontů v kapalinách
+4436	Způsob stanovení fyzikálně-mechanických vlastností feromagnetických materiálů
+4437	Zařízení na měření tvrdosti a hustoty měkkých textilních a podobných materiálů a materiálůsypkých
+4511	Způsob měření tepelné vodivosti, zejména prostorově rozměrných předmětů
+4619	Zariadenie na meranie vlhkosti sypkých poľnohospodárskych produ ktov
+4630	Manipulační zařízení
+4643	Ultrazvukový dálkoměr s teplotní kompenzací
+4925	Vlhčící zařízení psychrometrického knotu
+5102	Zařízení na automatické řízení rozložení výkonu v aktivní zoně energetického reaktoru
+5149	Zařízení pro automatické měření hřídelových součástí
+5343	Test pro zjištění koncentrace a aktivity aerobních bakterií
+5366	Způsob modelování dynamiky tepelného procesu v indukčně ohřívané m a kaleném tělese
+5434	Zařízení pro hodnocení vznětlivosti a výbušnosti průmyslových prachů
+5524	Zapojení pro korozní měření
+5611	Způsob sanitace a sterilace vodní parou a zařízení k provádění tohoto způsobu
+5616	Způsob stanovení reaktivity fosforečných surovin
+5617	Fóliový elektrooptický teplotní indikátor a způsob jeho ovládán í
+5690	Univerzálny laboratórny reaktor
+5694	Způsob zjišťování raného stadia vzniku záparového děje v důlníc h dílech
+5963	Způsob měření odporu jehly v drážce jehelního válce a vlivu pros tředí této drážky na pohyb jehly u pletacího stroje
+6014	Pasivní dozimetr pro měření průměrné koncentrace plynů
+6052	Roztok pro coulometrické stanovení tloušťky tenkých povlaků měd i
+6064	Způsob stanovení reaktivity vápencového aditiva pro odsiřování spalin
+6092	Zařízení pro měření plochy usní
+6152	Způsob cyklického určování popelnatosti surových uhelných kalů
+6244	Stupnice podélných sklonů přístrojů pro měření a indikaci úhlů
+6315	Zařízení pro absolutní odměřování délek
+6422	Ochranné pouzdro termočlánku
+6434	Způsob získávání signálu z běžící niti
+6537	Zařízení pro měření odporu jehly v drážce jehelního válce
+6594	Turbína s teplotně závislým profilem lopatek
+6779	Teplotní čidlo pro měření povrchové i objemové teploty
+6811	Způsob okamžitého zjišťování kontaminace horninového prostředí ropou a kapalnými ropnými produkty
+6847	Příslušenství k zařízení pro kontrolu plnění cigaretového provazce
+6863	Zařízení pro měření rychlosti hnacího vozidla
+6867	Způsob potlačení rušivého neklidu při měření malých dynamických tlakových sil a zařízení kjeho provádění
+6868	Způsob měření poměru silových účinků vysokotlakého tekutinového paprsku a zařízení k jehoprovádění
+6906	Teploměr pro široký rozsah teplot
+6964	Zařízení pro měření teploty použitím měření viskozity kapaliny
+36	Pístový dávkovač sypkých hmot pro kontinuální dávkovací linky
+130	Siloměrné čidlo
+432	Způsob měření teploty mokrého teploměru plynu a zařízení k provádění tohoto způsobu
+594	Sonda pro odběr vzorků plynu a měření teploty v šachtové peci
+871	Obvod pro měření dynamických parametrů polovdičo vých diod a tyristorů
+939	Pasivní dozimetr pro měření průměrné koncentrace plynů
+1103	Zařízení pro měření kroutícího momentu
+1126	Soustava cívek pro měření vzdálenosti kovových předmětů
+1182	Zkušební přístroj se zdrojem stejnosměrného napětí
+1238	Zapojení pro vyhodnocení elektrických veličin, zejména u přístrojů na měření impedance
+1392	Zařízení pro měření průtoku tekutiny
+1432	Způsob snímání výbojové činnosti na elektrických točivých strojích a zařízení k jeho provádění
+1585	Přístroj na měření napětí niti
+1654	Zapojení regulačního a měřicího zařízení tepelné ho výkonu otopných těles
+1822	Uzavírání hořících ropných vrtů s poškozeným úsťovým šoupátkem, nebo úvodní částí pažnicové kolony
+1825	Konstrukce měřidla poměrné spotřeby tepla
+1907	Optický systém sdruženého dílenského měřiče
+1955	Zapojení pro měření a regulaci ohřívaného média
+2162	Způsob zpracování tekutých radioaktivních odpadů a zařízení k jeho provádění
+2202	Detektor pro zjišťování přerušení drátku na rýsovacích strojích
+2312	Zařízení a způsob pro vpracování nadouvadel do kapalin pro výrobu pěnových polymerů jakoži pro měření objemové rozpínavosti jejich směsí
+2320	Čidlo pro měření malých průtoků kapalin
+2385	Zařízení pro mechanoterapeutickou rehabilitaci a kondiční posilování
+2458	Způsob výroby žáruvzdorných odporových pásů
+2645	Zapojení programového řízení vytápění a měření spotřeby tepla
+2965	Způsob a zařízení na výrobu plstí z minerálních vláken
+3079	Způsob řízené reprodukovatelnosti procesu plazmatického nástřiku
+3080	Zapojení centrálního rozvodu teplé užitkové vody
+3221	Způsob jemného broušení kroužků na jejich vnější ploše nebo na jejich vnitřní ploše a zařízení k provádění tohoto způsobu
+3222	Způsob jemného broušení kroužků, zejména oběžných kroužků válečkových ložisek a zařízení kprovádění tohoto způsobu
+3358	Způsob výroby ponožky okrouhlým pletacím strojem
+3467	Způsob měření spotřeby tepla v topných systémech a zařízení k provádění způsobu
+3742	Zařízení pro vyšetřování a hodnocení půd
+3746	Zařízení na měření spotřeby tlakového plynu
+3835	Vysokonapěťový kapacitor a měřící dělič napětí
+3885	Zapojenie dvojosového počítačom riadeného optoelektronického snímača polohy a rozmerov
+3887	Měřidlo pro měření průměru
+4132	Průtokoměr s proměnlivým průtokovým průřezem
+83	Způsob zjišťování hodnot pro seřizování rozmetadla minerálních hnojiv pro požadovanou šířkurozmetání a množství hnojiva určitého druhu a zařízení k provádění tohoto způsobu
+267	Zařízení k identifikaci a měření absorbce elektromagnetického záření povrchem těles
+841	Zapojení domovního vodovodu na teplou vodu
+900	Optoelektronický způsob kontroly rozměrů prismatického předmětu
+990	Elektronické čidlo zabezpečovacího zařízení sate litních antén a konvertorů SAT-ALARM
+1132	Způsob stanovení koncentrace látky v plynech a zařízení k jejímu provádění
+1149	Rozvod ústředního vytápění s jediným měřeným vstupem do každého bytu vícepodlažních domů
+1358	Způsob a zařízení pro stanovení závislosti kapacity nebo indukčnosti na polarizačním potenciálu nebo proudu
+1371	Držák zpracovávané jednotky, obsahující podešev a podpatek
+1516	Způsob měření přestupujícího množství tepelné energie měřením změn objemu média a zařízeník provádění tohoto způsobu
+1570	Stroj na výrobu trubek se šroubovitým švem
+1593	Zařízení pro kontinuální měření hmotné nestejnoměrnosti svazku vláken
+1596	Způsob měření teploty pohybujícího se materiálu, zejména pásového materiálu
+1636	Způsob dobývání uhelných slojí uhelným pluhem
+1649	Brzdový buben
+1676	Šroubovací zařízení s ústrojím pro měření utahovacího pnutí ve šroubu
+1739	Způsob měření barevného sémantického diferenciálu osobnosti a zařízení k jeho provádění
+1775	Hlídač maxima, zejména pro výpočet tarifu
+1835	Způsob určení vozidla jedoucího nedovolenou rych lostí
+1870	Zařízení předběžného varování pro tavicí pece
+1957	Způsob a zařízení k měření reflektivity povrchů
+1958	Způsob automatické signalizace poruchy zobrazova cího řetězce, zejména segmentových zobrazovačů a zařízení pro tento způsob
+2099	Přístroj na měření oční refrakce
+2165	Trubkový výměník tepla s proměnným průběhem teplo ty pro konstantní poměry množství výměnných plynů a způsob výměny tepla
+2179	Zapojení monitoru sítě
+2611	Zařízení pro zkoušení funkce průmyslových vah
+2710	Způsob měření ke stanovení vlastností zkoušeného vzorku a měřicí zařízení k provádění tohoto způsobu
+2722	Dávkovací zařízení pro kapaliny
+3167	Způsob dodatečné úpravy vodovodní vody a zařízení k provádění tohoto způsobu
+3433	Způsob a zařízení k určení dynamické hmoty a střední třecí síly u výtahových dveří
+3467	Zařízení k bezkontaktnímu měření povrchové teplo ty pohybujícího se objektu
+3797	Způsob určení signálu o bodu dotyku třecí spojky a zařízení k provádění tohoto způsobu
+162	Zařízení pro regulaci intenzity přívodu přísad
+281	Způsob stanovení reaktivity uhlíkových produktů pro vzduch a oxid uhličitý a indexu tvorbysazí a zařízení k jeho provádění
+291	Imunologická metoda pro stanovení derivátu hemo globinu
+375	Způsob stanovení předem určených materiálů v půdě a zařízení k provádění tohoto způsobu
+428	Způsob přezkušování kvality předmětu nebo stavu a přístroj k provádění tohoto způsobu
+584	Systém pro vlastní zhotovování cigaret a způsob pro vlastní zhotovování cigaret s filtrem
+615	Způsob výroby neporézních slévárenských slitin hliníku, chudých na obsah plynu a zařízení kpro vádění způsobu
+758	Automatický řídící systém pro membránová čerpadla
+1014	Regulovaný pohon vynašeče škváry
+1064	Zařízení k měření spotřeby TUV v objektech s cirkulační smyčkou
+1105	Zařízení pro vedení kabelů s alespoň jednou vodicí trubkou z termoplastu
+1191	Zařízení ke zkoušení obruče kola kolejového vozidla
+1321	Motorový systém pro vozidla elektrického typu
+1362	Způsob detekce a analýzy prvků kovové povahy
+1399	Zapojení měřiče kabelů
+1433	Způsob analýzy polárních, nepolárních a povrchově aktivních složek v diagnostikovaném vzorku a zařízení k jeho provádění
+1490	Způsob měření obsahu iontů v roztoku a zařízení k jeho provádění
+1580	Způsob ovládání mechanického zatížení a ovládací systém k provádění tohoto způsobu
+1827	Zařízení k tepelnému opracování výrobků ze skla a křišťálu v rovině kolmé k ose rotace
+1869	Způsob rovnání svarů kolejnicových styků na kolejových drahách
+1879	Zařízení pro vyprazdňování velkoobjemových nádob na odpadky
+1882	Soukolí, způsob jeho výroby a zařízení k prováděn í způsobu
+1910	Zařízení pro kontinuální měření hmotové nerovnoměrnosti svazku vláken
+1924	Způsob monitorování tloušťky a rovnoměrnosti tloušťky průhledného povlaku a zařízení k provádění tohoto způsobu
+1929	Způsob stanovení množství organických látek v kapalném vzorku a zařízení k provádění tohoto způsobu
+2237	Způsob detekce a měření aktivity neurotrofinů, zp ůsob klonování genu pro receptor tyrosinkinásy a rekombinantní molekula nukleové kyseliny její bu ňka, mokroorganismus a bílkovina
+2390	Objemový průtokoměr
+2566	Způsob měření spektropolarimetrických vlastností opticky aktivních látek a dichrograf k provedení tohoto způsobu
+2906	Fluidický oscilátor
+2933	Polarografická, elektrochemická a příbuzná měření na mini- a mikroelektrodách za působeníultrazvuku, zařízení a detektor k jejich provádění
+45	Způsob měření průtočného množství procesní tekutiny v Coriolisově měřiči a obvodová sestavapro použití v měřiči pro provádění způsobu
+50	Zařízení pro měření výchylky břemene, zvláště jeřábu
+260	Teplotní kompenzace biosenzorů
+472	Způsob kontroly a měření geometrie kol vozidel a opticko-elektronické zařízení k prováděnítohoto způsobu
+486	Průtočný kotel
+559	Způsob hydrogenolytické redukce a zařízení k provádění tohoto způsobu
+588	Způsob detekce úniku radioaktivních plynů z jader ného reaktoru a zařízení ke provádění tohoto způs obu
+625	Systém pro plynulé monitorování elektrické vodivosti alespoň části střídavého výkonového systému
+626	Způsob pneumaticko dynamické výroby tvarovatelných vláknitých rohoží s vysokou pevností v tahu z vláknitého rouna a zařízení pro provádění tohoto způsobu
+761	Způsob rychlého stanovení obsahu prvku a zařízení k provádění tohoto způsobu
+862	Zařízení pro určování fyzikálních vlastností tekutin
+898	Způsob nespektroskopického nezobrazujícího stanovení in vivo koncentrace NMR - detekovatelné xenobiotické sloučeniny
+926	Zařízení pro měření a registraci množství a intenzity srážek
+970	Způsob a zařízení pro určování vlastností a/nebo složení formovacího písku
+997	Způsob a zařízení pro získávání minerálních vláken z termoplastického materiálu s vysokým bodem tání
+1010	Kalorimetrické měřicí zařízení
+1148	Tlaková sonda pro kvantitativní důkaz škodlivin přítomných ve spodní vodě
+1180	Způsob jemného obrábění boků zubů ozubených kol
+1264	Zařízení pro navlhčování elektrárenského odfiltrovaného popílku
+1281	Způsob akceleračního měření spalovacích motorů a vozidel
+1322	Zařízení pro určování nehomogenit v izolantech
+1323	Snímač teploty
+1357	Karboxymethylcelulózové vlákno, způsob jeho přípravy a absorpční produkt toto vlákno obsahující
+1443	Způsob měření nekondenzovatelných plynů ve sterilizační páře
+1461	Přívodní trubice plazmového hořáku
+1562	Způsob monitorování koroze a rychlosti rozkladu materiálu součásti v reálném čase a zařízení k provádění tohoto způsobu
+1601	Pevná léková forma s řízeným uvolňováním účinné látky
+1621	Způsob měření tloušťky vrstvy a zařízení k provádění tohoto způsobu
+1909	Způsob tvarování příze a zařízení k provádění způsobu
+1917	Způsob a zařízení na měření vlastností formovací hmoty
+1993	Zařízení pro upevnění předmětu k povrchu podtlakem
+2130	Řídící systém pro klimatizační a chladicí zařízení
+2274	Zařízení a způsob zjišťování vadných jaderných palivových tyčí
+2323	Způsob určení bodu dotyku třecí spojky a zařízení k provádění tohoto způsobu
+2812	Způsob odstraňování rozpouštědlových par z odpadního vzduchu a zařízení k jeho provádění
+2878	Můstek pro měření magnetické susceptibility hornin
+2888	Vibrační kuželový drtič a regulace jeho chodu
+2914	Vektorový analyzátor obvodů
+2985	Zařízení k měření tepla odevzdaného topným tělesem
+3002	Zařízení pro zjišťování přetékání kapaliny nebo polotekuté látky z nádrže
+3336	Sonda pro měření průtoku kapaliny v trubici
+39	Způsob a zařízení na měření malých časových intervalů
+52	Způsob regulace tlaku plynu v komoře koksárenské pece a zařízení k provádění tohoto způsobu
+421	Způsob broušení kolejnic a vozidlo pro broušení kolejnic
+445	Posuvné měřidlo s přerušovaným snímáním hodnot číselníkovým snímačem pro vnější a vnitřní měření a měření vnitřních osazení
+595	Nabíječ baterií
+671	Způsob a souprava pro vyhodnocení rizika vývoje periodontitidy
+725	Způsob měření rozměrů předmětu a měřicí zařízení pro provádění tohoto způsobu
+926	Polyethylentereftalatová vlákna se zlepšeným objemem a způsob jejich výroby
+998	Elektrický držák elektrody
+1037	Způsob a zařízení pro určení vnitřního tlaku uzavřené lahve
+1046	Pojízdné zařízení
+1510	Způsob kontinuálního měření odporu příčného posuvu koleje a zařízení k jeho provádění
+1719	Způsob a zařízení pro kontinuální lití tenkých kovových výrobků mezi dva válce
+1790	Způsob předvídání, kdy budou bakterie přilnuté k povrchu vykazovat aktivní růst
+1827	Materiál pro krytí ran
+1851	Automatizované zařízení pro provádění alespoň periodického odstraňování kovových iontů a způsob provádění
+1871	Způsob a zařízení pro sledování vnitřního oběhu fluidního lože v reaktoru, chladicí a měřící ústrojí pro ně a reaktor opatřený tímto zařízením
+1896	Způsob snížení srážení asfaltu ze surové ropy
+1952	Zařízení a způsob měření pevnosti adheze lepeného spoje
+2450	Sestava umožňující přímé měření bodu varu kapaliny
+2565	Elektroměr napájený baterií s přepojitelnou měřicí charakteristikou
+2696	Zařízení ke zjišťování vlastností prohozního kanálu tkacího paprsku tkacího stroje
+2731	Zapojení pro měření maxim trojfázového proudu
+2810	Způsob a zařízení pro tváření tenkých kovových výrobků mezi dvěma válci
+2896	Způsob detekce tvorby, přítomnosti, vymizení nebo množství nemísitelných fází a zapojení kjeho provádění
+2912	Způsob detekce nemisitelných fází na principu elektrochemické, elektromagnetické či magnetické detekce
+2947	Oděvní součástka
+2952	Zlepšený spojovací systém
+2993	Způsob separace emulzí olej - voda obsahujících pevné látky
+3007	Zařízení k měření koncentrace ozónu v plynném prostředí
+3103	Způsob korekce výstupního signálu měřidla průtoku vzduchu
+3113	Způsob monitorování koncentrace zvlákňovacího roztoku při výrobě produktu
+3413	Způsob detekce přítomnosti elektrického kabelu a zařízení k provádění tohoto způsobu
+3467	Způsob stanovení obsahu biopaliva ve směsi s minerálními palivy
+3504	Způsob a sestava systému pro řízení přenosu tepla u ventilačního nebo klimatizačního přístroje
+5	Způsob sledování stadia plodnosti
+43	Způsob a zařízení pro přitlačování snímacího ústrojí na soubor vláken ve vedení
+129	Testovací kit pro monitorování stadia ovulačního cyklu
+414	Způsob kontinuálního dobývání nerostných surovin a dobývací stroj k provádění tohoto způsobu
+448	Tepelně izolační nádoba s elektrickým ohřevem
+553	Způsob stanovení charakteristických veličin proudění tekutiny v potrubí a zařízení k provádění tohoto způsobu
+555	Regulace přívodu látek do chemického reaktoru
+556	Způsob regulace koncentračního poměru reakčních složek a zařízení k provádění tohoto způsobu
+563	Způsob vysílání a příjmu signálu obsahujícího množinu komunikačních signálů a základnová stanice selektivního volání k provádění tohoto způsobu
+616	Několikačlenný vytlačovací stroj a způsob jeho regulace
+662	Testovací postup pro stanovení koncentrace imunofilin vázajícího léčiva v krvi, testovací souprava a použití imunofilin vázající sloučeniny pro toto stanovení
+781	Způsob automatického ustavení drticí štěrbiny drticího stroje a drticí stroj
+786	Absorpční výrobek
+890	Hydrostaticko hydraulické nivelační zařízení k přesnému měření rozdílných výšek
+898	Zapojení pro kontrolu venkovních mechanismů stavitelných trojfázovými pohony
+1002	Způsob a zařízení pro odlévání kovového pásu
+1085	Balicí a dávkovací systém pro detergenty a jiné vodou zpracovatelné a/nebo provozní chemikálie
+1101	Zařízení pro měření charakteristik kapaliny
+1599	Způsob řízení silničního provozu prostřednictvím přenosu zvláštních signálů
+1709	Způsob decentralizovaného napájení sběrnice a zapojení k provádění tohoto způsobu
+1767	Způsob pulzní regulace vytápění
+1876	Způsob zjišťování obsahu oxidu uhelnatého ve spalinách dvoustupňových spaloven
+1883	Způsob měření spotřeby tepelné energie a zařízení k provádění tohoto způsobu
+1939	Zařízení pro měření rovinných geometrických útvarů
+2077	Zařízení pro měření konvergencí podzemního výrubu
+2087	Způsob regulace chemické úpravy roztoku a zařízení k provádění způsobu
+2167	Způsob a zařízení pro reprodukci bitového toku zaznamenaného na záznamovém médiu
+2282	Zařízení pro zjišťování okamžité polohy letadel
+2363	Způsob a zařízení pro automatickou regulaci polohy zastavení kabiny výtahu
+2373	Způsob a zařízení pro korekci přesnosti zastavení kabiny výtahu
+2379	Způsob výroby vinylchloridu
+2689	Způsob zjišťování nastavovacích dat pro odstředivé rozmetadlo hnojiv
+2756	Krevní plynová sonda
+2757	Způsob stanovení toxicity, zařízení k jeho provádění, a použití tohoto zařízení
+2785	Čidlo k optickému zjišťování přítomnosti cizích těles, zejména dešťových kapek
+2949	Způsob měření tloušťky rozměrných těles
+2984	Způsob regulace teploty v peci a zařízení k výrobě cementového slínku
+3075	Způsob měření rozptylu světla na částicích a zařízení k provádění tohoto způsobu
+3083	Nízkoodběrový magnetoelektrický snímač pohybu
+3171	Způsob určování prvního parametru, případně prvních parametrů, předmětu a zařízení k provádění tohoto způsobu
+3243	Způsob korekce pro navigační přístroj s podporou mapy a navigační přístroj s podporou mapyk provádění tohoto způsobu
+3329	Způsob nedestruktivního měření zámkových sestav v cylindrických vložkách
+3355	Způsob určování vlastností v motorovém vozidle zamontovaného tlumiče nárazů
+3451	Spektrometr a metoda podle Ramana
+3471	Způsob detekce evanescentně excitované luminiscence
+3472	Způsob detekce evanescentně excitované luminiscence
+3556	Způsob k proměřování obrazců a zařízení k provádění tohoto způsobu
+3599	Způsob měření elektrochemické aktivity, měřicí článek a ponorné měřicí čidlo k provádění tohoto způsobu
+3696	Nukleotidové sekvence pestivirových kmenů, polypeptidy kódované těmito sekvencemi a jejichpoužití v diagnostice a prevenci pestivirových infekcí
+3779	Zařízení pro provádění elektrochemických a biosenzorových měření
+3808	Elektronický snímač, způsob jeho výroby a zařízení pro provádění tohoto způsobu
+20	Způsob a zařízení k měření rychlosti a ujeté vzdálenosti
+228	Přístroj k měření hloubky profilu pláště pneumatiky motorového vozidla
+324	Ultrazvukový vysílač naměřených hodnot pro určení průtokového množství proudící kapaliny
+410	Způsob monitorování začátku plodného období v ovulačním cyklu
+445	Víceúčelové doplňkové zařízení pro výrobu, opravy a renovace šroubových ploch šneků
+471	Způsob měření a distribuce licího materiálu, zejména pro výrobu minerálně vázaných dřevotřískových desek, a zařízení k provádění tohoto způsobu
+503	Zařízení pro sklízení kořenových plodin s alespoň jedním dopravním prostředkem
+544	Ochranný jistič s automatickým sledovacím zařízením
+562	Mutantní forma termolabilního bakteriálního enterotoxinu Escherichia coli, prostředek a vakcína s jeho obsahem a použití této mutantní formy
+580	Způsob pro kontrolu těsnosti potrubí, zejména kanalizačních systémů, a zařízení k prováděnízpůsobu
+611	Zařízení pro měření vzdálenosti pomocí světelných vln a způsob určování vzdálenosti cílového objektu
+750	Měřidlo tepla případně chladu
+763	Motor se vstřikováním vody do válce
+891	Zařízení pro určení úseku s poruchou ve fyzikálním přenosovém médiu telekomunikační sítě azpůsob určení úseku s poruchou v účastnické lince telefonní sítě
+904	Způsob ovládání aktivit bezpečnostního systému posádky vozidla a zařízení k provádění tohoto způsobu
+913	Vytlačovací zařízení a způsob vytlačování
+923	Způsob a systém automatického řízení spalování v peci
+993	Snímač průtoku
+994	Postup praní a pračka k realizaci postupu praní
+1173	Stabilizační médium pro alfa-GST v moči a způsob jeho stanovení metodou enzymové imunoanalýzy
+1206	Způsob měření spotřeby pohonných hmot spalovacích motorů s elektronicky řízeným vstřikem paliva a zařízení k jeho provádění
+1489	Způsob a zařízení pro určování rychlosti železničního vozidla
+1620	Způsob a systém měření a seřizování tlaku pneumatiky
+1791	Zařízení pro provádění elektrochemických měření
+1792	Zařízení pro provádění elektrochemických měření ve skleněných taveninách nebo v tavenináchsolí
+1943	Optické zkušební zařízení pro vyhodnocování on-line svarových nebo pájených švů
+2234	Kompozice a lak rychle vytvrditelných vodných nátěrů
+2295	Způsob měření teploty prostřednictvím teplotně závislého odporu
+2300	Telefonní stanice
+2371	Způsob rozebírání elektronického přístroje a zařízení k provádění tohoto způsobu
+2411	Substituované indanylidinacetylguanidiny, způsob jejich přípravy, jejich použití jako léčiva nebo diagnostika a léčiva, která je obsahují
+2517	Zapojení transformátoru s děleným jádrem pro měření proudu
+2547	Kinasa příbuzná PIK kontrolního prvku buněčného cyklu, látky a způsoby
+2615	Způsob identifikace jednopólového spojení se zemí v trojfázové síti
+2636	Způsob a zařízení pro měření meze pevnosti v tlaku, pružnosti, tvrdosti, tloušťky nebo podobných vlastností pohybujícího se pásového materiálu, takového jako je pás struskové vlny
+2696	Zařízení pro měření pracovního tlaku
+2844	Kazeta a zařízení pro použití při detekci analytu, způsob provádění testu za použití uvedené kazety, kit pro použití při provádění množiny elektrochemiluminescenčních testů a způsob detekce nebo měření analytu
+2857	Zapojení pro regulaci ventilace ovzduší v silničních tunelech
+2967	Polem řízená polarizace nebo obnovování elektrod či rozhraní fází a uspořádání k jejich provádění
+2968	Způsob vytváření elektrod s časově řízeným povrchem a uspořádání k jeho provádění
+3181	Způsob a zařízení k měření vzoru na částečně tepelně vodivém povrchu, zejména měření otisku prstu
+3190	Obvod a způsob pro měření odporu
+3240	Zařízení pro kontinuální měření okamžité polohy pohybujícího se kolejového vozidla
+3241	Zařízení pro kontinuální měření okamžité polohy pohybujícího se kolejového vozidla
+3281	Způsob plynulé regulace vlhkosti sypkého materiálu a zařízení k provádění způsobu
+3339	Testování motorových vozidel a simulační jízdy na válcích
+3367	Systém zpětné vazby pro regulaci nelineárních procesů
+3373	Ovládací soustava výtahu
+3375	Způsob nastavení proměnného činitele zesílení regulovaného posilovače brzdové síly a zařízení k provádění tohoto způsobu
+3663	Pneumatická pružina pro vozidla
+3698	Zařízení pro rovnoměrné rozdělování třífázového elektrického zatížení
+3732	Zařízení pro zjišťování stavu zakřivení oblastí lidského těla
+3756	Způsob určování hmotnostního toku proudu zrnitého materiálu
+3786	Amorfní transparentní deska z krystalizovatelného termoplastu, způsob její výroby a její použití
+3931	Způsob a zařízení k detekci a měření podmínek ovlivňujících barvu
+3985	Způsob regulace procesu syntézy chemických produktů a zařízení pro provádění způsobu regulace
+4082	Způsob řízení modelářských elektromotorů inteligentním regulátorem otáček
+4108	Způsob pro udržení obecně konstantní amplitudové odezvy na předem určený měřený vstup a zařízení k jeho provádění
+4161	Vícevrstevný reagenční testovací proužek a způsob měření analytu ve vzorku
+4240	Bočníkový systém
+161	Numerický způsob demodulace a dekódování
+271	Způsob stanovení albuminu ve vzorku obsahujícím volný hemoglobin
+491	Způsob měření povrchových a mezifázových napětí s možností řízené komprese i expanze rozhraní a sledování časových změn a zařízení k jeho provádění
+777	Způsob řízení otáček tiskových válců tiskařského stroje a tiskařský stroj k provádění způsobu
+875	Digitální určování rychlosti při ultrazvukových měřeních proudění
+1046	Způsob předpovídání fyzikálních vlastností zbytkového surového oleje, zbytkového topného oleje nebo živicového materiálu
+1047	Průchozí komůrka pro zařízení pro měření blízkého infračerveného spektra uhlovodíkového materiálu
+1073	Způsob a zařízení k dopravě a dávkování suchého hnědouhelnatého prachu do topeniště parního generátoru
+1088	Způsob a zařízení pro vytváření povlékaného proudu skloviny
+1166	Použití proteinu S-100 v medicíně a léčivo obsahující protein S100-b
+1551	Přístroj pro měření filtrovatelnosti kapalin
+1587	Způsob stanovení hodnoty transpiračního proudu u rostlin a zařízení pro provádění tohoto způsobu
+1699	Žebrový materiál
+1862	Zařízení pro nanášení úseku kordu a způsob přesného nanášení kordu
+1896	Způsob dynamického měření lineárních, rotačních a kývavých pohybů měřicí soustavou obsahující alespoň jeden inkrementální snímač pohybu a přesný generátor a měřicí soustava k provádění tohoto způsobu
+1922	Optický proudový senzor pro měření velikosti proudu
+2153	Zlepšování povrchů kovových substrátů pomocí laseru
+2179	Vynášecí zařízení
+2266	Průtokoměr
+2314	Způsob analýzy a testování extrahovatelných, mezifázově aktivních a nahromaditelných složek či fází
+2315	Způsob přípravy nemísitelných a elektrodových rozhraní s řízenou velikostí a s jehlovými kapilárními NC-elektrodami a uspořádání k jeho provádění
+2368	Způsob a zařízení pro měření výšky řezacího stolu
+2514	Způsob zjišťování průměrného sálání vrstvy paliva
+2543	Anorganický materiál v granulární formě a kosmetický prostředek
+2553	Viskoelastometr pro měření viskoelasticity tkání živých organismů
+2918	Způsob dekompozice a sestavování obecných mikropočítačových systémů
+3131	Způsob vytlačování, vytlačovací stroj a výrobek podle tohoto způsobu
+3142	Souprava pro určení aproximativní průchodnosti mezizubního prostoru a sonda pro takovou soupravu
+3201	Způsob měření sil na měrném dvojkolí
+3287	Způsob vyhodnocení točivého momentu spalovacího motoru
+3338	Zařízení pro kvalitativní a/nebo kvantitativní magnetickou detekci analytů
+3564	Odběrová sonda pro měření kyslíku na zařízeních parních generátorů vytápěných uhelným prachem
+3633	Regenerační oxidační zařízení
+3639	Otočné odřezávací zařízení a způsob odřezávání
+3766	Metoda a přístroj pro předání komunikace s přerušením řízeného měřením v systému s kódovýmdělením
+3770	Způsob detekce úniku paliva a zařízení k jeho provádění
+3837	Způsob anodické pasivace molybdenových elektrod a sklářská pec k provádění tohoto způsobu
+3895	Způsob odstranění rušivého vlivu hemoglobinu při analýze lékařských vzorků
+3910	Způsob analýzy medicínských vzorků, které obsahují hemoglobin
+4127	Způsob určování hovorného telefonního hovoru, spojeného do bezdrátového telefonního automatu, a telekomunikační systém
+4153	Prstencový průtokoměr s automatickým ložiskovým závěsem plováku
+4308	Systém a způsob monitorování provozního stavu elektrického motoru
+16	Absorpční výrobek
+43	Způsob a zařízení pro měření tloušťky stěny nádoby
+304	Povrch sportovního hřiště a způsob jeho úpravy
+353	Způsob zhotovení membránového zásobníku
+720	Syntetická pryskyřičná kompozice odolná proti poškození teplem a její použití
+818	Způsob měření chemicko-fyzikálních parametrů v pohyblivém proudu těživa a zařízení k provádění tohoto způsobu
+864	Způsob sledování činnosti zařízení pro přívod abrazivní látky pomocí tekutiny
+908	Zařízení k proměřování pilových listů
+1077	Způsob generování povelů pro řízení výkonu v uzavřené smyčce systému pro řízení výkonu v komunikačním systému CDMA
+1089	Kosmetický prostředek a způsob ošetřování pleti
+1103	Způsob a zařízení pro nabíjení a vybíjení piezoelektrického prvku
+1259	Zařízení pro měření tloušťky skleněné vrstvy v boční stěně skleněného zásobníku a způsob měření tloušťky alespoň jedné z množiny skleněných vrstev skleněného zásobníku o rozdílných složeních
+1275	Zařízení k měření hmotové nerovnoměrnosti svazku vláken
+1296	Způsob zjišťování poruchy v podloží komunikace a zařízení k provádění tohoto způsobu
+1438	Způsob výroby palivových pelet a zařízení k provádění tohoto způsobu
+1471	Způsob a zařízení k identifikaci kovových kotoučů
+1899	Způsob a zařízení pro měření trvalých délkových deformací materiálů
+1940	Způsob výroby foliových sáčků a zařízení k provádění způsobu
+2019	Elektromechanicky ovládaná kotoučová brzda
+2020	Způsob zjišťování nestability hoření tuhých paliv
+2252	Navigační systém
+2549	Mechanizmus pro měřicí zařízení
+2584	Způsob detekce/měření tvorby, přítomnosti či vymizení nemísitelné fáze, nebo složení systému a uspořádání k jeho provádění
+2623	Iniciace vícecílového trasování s pasivním měřením úhlů
+2707	Zařízení pro automatické vyhodnocování stavu odvalovacího pásu na kolech jedoucích vlaků
+2760	Způsob odpalování přenosných raket a zařízení k provádění tohoto způsobu
+2818	Zařízení a způsob na měření soustružnických parametrů železničních dílů
+2820	Zařízení a způsob na měření nekruhovitosti a průměru železničních kol
+2983	Způsob vysoušení pevné izolace vinutí výkonových transformátorů a zařízení k provádění tohoto způsobu
+3149	Způsoby pro vyhledávání nových antivirových činidel
+3187	Zařízení pro měření teploty taveniny
+3277	Způsob měření radioaktivity radioaktivního materiálu uzavřeného v kontejneru
+3565	Intervalové řízení rychlosti srdce pro kardiopulmonární intervalové cvičení
+3579	Způsob měření a vyhodnocování parametrů funkce plic
+3815	Způsob stanovení měrného povrchu práškových hmot a zařízení pro jeho provádění
+3852	Zařízení k určení parciálního tlaku alespoň jednoho plynu ve vydechované směsi plynů, jehopoužití a způsob monitorování výchylek vdechování lidského nebo zvířecího těla
+3882	Mechanicky čištěný filtrovací systém
+4028	Zařízení pro měření doby volného pádu množiny svazků regulačních tyčí do jádra jaderného reaktoru a způsob měření
+4069	Způsob regulace reluktančního motoru
+4165	Zařízení pro měření slunečního záření
+4336	Způsob určování skutečné teploty reálných těles
+4351	Způsob a zařízení pro zjišťování skutečného stavu horké trubky
+4400	Způsob měření piezoelektrických posunutí pomocí laserového interferometru a laserový interferometr k provádění tohoto způsobu
+4544	Způsob k bezdotykové kontrole příze na dopřádacím nebo soukacím stroji a zařízení k jeho provádění
+4634	Ohýbací lis
+2	Způsob určování množství pevného a/nebo kapalného materiálu obsaženého v dvoufázovém prouděnís plynným nosným médiem
+21	Systém pro vytváření, změnu a/nebo vizuální znázornění programů pro řízení brousicích strojů
+31	Způsob kontroly provozního stavu výkonového transformátoru a jeho příslušenství a zařízení kjeho provádění
+38	Způsob měření tloušťky stěny mezi povrchy skleněných výrobků tvářených za tepla a zařízení pro měření tloušťky stěny tvářených dutých skleněných výrobků
+71	Zařízení pro kontrolu kvality ložiskových kuliček, zejména pro bezdotykovou kontrolu lesku apovrchových kazů
+117	Způsob zaměřování koleje
+127	Způsob inertizace k snížení rizika a k hašení požárů v uzavřených prostorách
+193	Zařízení a způsob pro nepřetržitou kontrolu těsnosti uzavíracích vík u kontejnerů na radioaktivní materiály
+216	Způsob a zařízení pro výběr základové stanice pro komunikaci s uživatelskou stanicí
+390	Způsob automatického přidělování adres, komunikační systém, nadřazený účastník komunikace aúčastník komunikace
+443	Způsob a zařízení pro řízení stabilní práce odstředivého kompresoru
+492	Způsob průkazu změny psychoakustické citlivosti
+623	Způsob řízení pneumatického zatěžovacího zařízení a přístroj pro provádění tohoto způsobu
+689	Aparatura na měření viskozity a způsob jejího měření
+717	3d-přístroj k měření páteře
+776	Papírový nebo plastový pytel, zvláště ventilový pytel, s trhacím jazýčkem a způsob jeho výroby
+887	Monitorovací zařízení pro monitorování adheze hnací jednotky elektrického železničního vozua regulační systém s tímto monitorovacím zařízením
+1179	Zařízení na čištění a dodávání vody
+1405	Kapalná uhlovodíková kompozice, kompozice základní složky maziva a kompozice mazacího oleje
+1407	Použití TNF antagonistů pro výrobu drog k léčení septických poruch
+1424	Způsob odhadu systematické odchylky u systému sledování cíle
+1432	Bezpečnostní zařízení pro nádrž se stlačenou kapalinou
+1585	Způsob a zařízení pro vysokorychlostní přenos dat v paketech
+1939	Způsob optimalizace cyklické funkce úpravny vody a zařízení k jeho provádění
+1941	Soustava k určování přítomnosti nebo obsahu analytik v krvi
+1995	Analogové čidlo hladiny kapaliny
+2162	Způsob a zařízení pro inhalování léku
+2185	Sestava stojanu pro pyrometr a stupně trysek
+2192	Způsob a zařízení pro určování vlastností prvků komunikačního zařízení pod zatížením
+2410	Pasivní telekomunikační monitorovací systém
+2599	Způsob pro časovou synchronizaci využitím mobilních stanic v CDMA komunikačním systému
+2735	Způsob zapřádání příze na pracovním místě rotorového dopřádacího stroje a zařízení k jehoprovádění
+2773	Střelná zbraň, opatřená systémem pro umožnění střelby
+2823	Optický obvod k získání monitorovacího signálu
+2941	Magneticko-indukční způsob měření průtoku proudících médií
+3001	Způsob plnění a plnicí zařízení
+3022	Léčení a diagnostika onemocnění zprostředkovaných makrofágy s použitím ligandů FC receptorů
+3039	Přístroj k měření kvality příjmu rádiového signálu
+3067	Zařízení pro připevnění prstencového upevňovacího orgánu tlakem
+3105	Způsob řízení tloušťky stěny trubky ve vícestolicové kontinuální tahové redukovně trub
+3215	Nízkoprofilový přístroj na měření tlaku
+3216	Systém pro regulaci teploty tělního jádra jedince
+3303	Úložný absorpční člen s vysokým kapilárním sáním k absorbování tělesných kapalin
+3304	Úložný absorpční člen s vysokým kapilárním sáním obsahující materiál s velkou plochou povrchu na absorbování tělesných kapalin
+3320	Měřicí systém pro měření posuvu součástí rotoru
+3365	Způsob pro měření ozubených kol a zařízení k jeho provádění
+3387	Způsob regulace, sledování a kontroly procesu tváření v tvářecím stroji, zejména nýtovacímstroji, a tvářecí stroj pro provádění tohoto způsobu
+3486	Způsob kalibrace vlnové délky v zařízení pro filtraci elektromagnetického záření
+3487	Zařízení a způsob pro přímé měření tepelné energie obsažené v hořlavém plynu
+3565	Způsob automatické kontroly a řízení obsahu povrchově aktivních látek ve vodném čisticím roztoku
+3578	Způsob měření rychlosti resorpce kosti
+3609	Způsob nastavení charakteristik hořáků
+3725	Zapojení a uspořádání elektrod pro měření tloušťky stěny z vodivého materiálu
+3884	Způsob vyhodnocování chemických a biologických vzorků, získaných z maticových hybridizačních testů
+4001	Způsob uložení hodnoty spotřeby elektrické energie v elektroměru a elektroměr s uložením této hodnoty
+4034	Zařízení pro nárazové chlazení boční stěny vedle podříznuté oblasti segmentu trysky turbíny
+4035	Zařízení pro nárazové chlazení boční stěny segmentu trysky turbíny
+4069	Zařízení pro bezdotykové měření lineárního textilního útvaru, např. příze, niti, textilního vlákna, pramene vláken
+4070	Zařízení pro bezkontaktní měření parametrů lineárního textilního útvaru
+4312	Zařízení na přechovávání zkapalněného plynu pod tlakem
+4361	Pitotova statická trubice
+4578	Zařízení a způsob regulace rastrového snímače v terapii iontovými paprsky
+4582	Stanovení účinků léčiva na krevní parametry v podmínkách in vivo
+4598	Zaměřovač, zejména pro ruční zbraně
+4697	Způsob kontroly průměru sloupců, vytvořených v zemině injektováním pod tlakem
+4710	Zdvihový řetěz
+4752	Přístroj pro měření teploty ve zplyňovacím procesu a rektor zahrnující tento přístroj
+4814	Způsob zpracování kalu
+4825	Způsob a zařízení pro měření rozložení teploty v materiálu, zejména tkáni
+4867	Způsob vyhodnocování a/nebo předpovídání účinku léčení specifickou protialergickou vakcinací
+4928	Rezonační deska drnkacího nástroje, zvláště akustické kytary
+4930	Zařízení pro odstraňování bojových prostředků
+127	Korečkové rýpadlo a způsob regulace pohonu
+356	Způsob a zařízení k mechanickému obrábění obrobků a manipulaci s montovanými či demontovanými konstrukčními skupinami
+370	Systém na měření teploty a příslušný optický spínač
+562	Bramborové hranolky pečené v troubě s prodlouženou dobou použitelnosti
+658	Vysokoafinní monoklonální protilátka, polynukleotidová molekula a klonující vektor
+671	Způsob k optické detekci nečistot, zejména cizích vláken, v podélně se pohybující přízi a zařízení k jeho provádění
+731	Systém pro kontrolu spotřeby média
+750	Elektrochemické čidlo plynu a způsob určení plynových komponent
+872	Vodné roztoky azobarviv, způsob jejich přípravy a použití
+882	Způsob kontroly funkceschopnosti katalyzátoru pro odpadní plyny
+1102	Systém pro přenos dat, například pro jízdní kola závodního typu
+1118	Podbíječka pro podbíjení koleje
+1165	Zařízení pro měření odstupu
+1230	Způsob měření malých, periodických vlnitostí na povrchu a zařízení k provádění tohoto způsobu
+1540	Způsob kvalifikace smyček pro datové služby a zařízení k tomuto způsobu
+1602	Zařízení pro evidování tepla vydávaného topným tělesem a pro regulaci teploty v místnosti
+1639	Způsob prodlužování životnosti výkonových transformátorů
+1681	Zařízení na měření hmotnosti baleného produktu
+1730	Zařízení k určování hladiny chladicího prostředku v reaktoru
+1767	Způsob zjišťování větrání oknem a zařízení k provádění tohoto způsobu
+1815	Léčebný systém a postup ovládání systému využívaný pacientem při samoléčbě
+1861	Způsob měření čistoty povrchu a nástroje na měření čistoty povrchu
+1929	Způsob vylepšení přesnosti měření laserovým interferometrem
+1930	Tlakový snímač
+1998	Troferutin s vysokým obsahem trihydroxietylrutinu a způsob jeho výroby
+2053	Způsob a zařízení pro čištění hliníku segregací, a jejich použití
+2097	Orientační a navigační systém
+2098	Způsob sledování dopravníkových pásů a dopravník s pásem a se zařízením pro sledování podle tohoto způsobu
+2132	Způsob a zařízení pro obrábění předobrobených součástí
+2368	Kompresorové zařízení s kompresorovým prvkem se vstřikováním vody
+2441	Způsob a zařízení pro měření obsahu vlhkosti dřevěných štěpin
+2455	Způsob určení extraktu původní mladiny v pivu
+2475	Zapojení trojfázových napájecích obvodů voltmetru pro hladiny nn, vn a vvn
+2514	Přípravek obsahující sloučeniny na bázi flavyliových solí, nesubstituovaných v pozici 3, určený na umělé zbarvení pokožky a jeho použití
+2646	Způsob měření hustoty kalu
+2686	Způsob řízení výkonu fluidního kotle se stacionární fluidní vrstvou s oxidační atmosféroua zařízení pro provádění tohoto způsobu
+2738	Způsob a zařízení na vytváření palivové směsi pro spalovací ústrojí
+2742	Zařízení pro měření průtoku a množství plynů nebo kapalin
+2905	Měřicí zařízení
+3104	Způsob měření objemu proudicího media a měřicí přístroj k tomuto účelu
+3126	Způsob radionuklidového značení protilátky konjugované s chelatotvorným prostředkem a vazebný test
+3227	Způsob stanovení měrné elektrické vodivosti a zařízení pro jeho provádění
+3315	Způsob kompenzace mechanického kmitání, zejména v tiskařských strojích
+3341	Polypeptid z H. medicinalis, způsob jeho přípravy a použití, farmaceutický prostředek, polynukleotid, expresní vektor, hostitelská buňka, protilátka a její použití
+3356	Způsob měření aktivace basofilů po stimulaci alergenem pro stanovení přecitlivělosti na tento alergen a příslušný kit
+3438	Zařízení a způsob regulace přívodu vodní páry do kompresoru plynové turbíny
+3663	Způsob zapřádání na bezvřetenových dopřádacích strojích a zařízení k jeho provádění
+3687	Způsob měření rychlosti kolejového vozidla a zařízení pro jeho provádění
+3710	Způsob monitorování hladiny plnění kulového mlýnu
+3902	Skleněný dílec obsahující alespoň jednu tabuli skla
+4047	Způsob a zařízení pro měření elektrických vlastností nádorové tkáně
+4063	Ovládací sestava
+4087	Palivová směs, způsob prodloužení časového intervalu mezi procesy mytí turbíny při spalování popel obsahujícího paliva v turbíně a způsob provozu turbíny
+4093	Zařízení pro bezkontaktní měření vzájemné polohy dvou částí mechanismu
+4196	Dopravníková váha pro řízení plošné hustoty minerální vlny
+4243	Způsob kvantifikace minoritní genetické informace ve směsi s majoritní
+4344	Konstrukt DNA
+4382	Způsob kalibrace matematického modelu
+4435	Elektroakustický měnič, zařízení pro měření doby šíření akustického a/nebo ultrazvukovéhosignálu v materiálu s plochým povrchem a způsob měření doby šíření akustického a/nebo ultrazvukového signálu v materiálu
+4463	Datový kabel a způsob jeho výroby
+4552	Zařízení na čistění konstrukcí zamlženým vzduchem a způsob čistění
+4561	Zařízení pro bezdotykové měření vlastností pohybující se příze nebo přízi podobného textilního útvaru
+4673	Způsob určení proudnicového vzoru v prostoru a zařízení k jeho provádění
+4674	Způsob a zařízení pro měření kulatiny
+4683	Způsob a zařízení na měření tloušťky zadní hrany
+23	Způsob kontroly kvality injektáží a zařízení k provádění tohoto způsobu
+57	Způsob výběru schématu obličejové barevné kosmetiky
+180	Datový kabel a způsob jeho výroby
+322	Způsob provádění tracheální insuflace plynu a zařízení k provádění tohoto způsobu
+425	Regulační zařízení pro elektrický motor s proměnnými otáčkami a způsob jeho provozu
+431	Způsob nastavení a fixace ferule s optickým vláknem v optické konektorové zástrčce a zařízení pro provádění tohoto způsobu
+495	Způsob výroby fosfonomethylglycinu
+585	Tenkostěnná výstelka vysokotlaké nádoby
+602	Způsob regulace teploty vzduchu v místnosti
+769	Komunikační koncový přístroj a přístroj pro základní stanici
+816	Zařízení k regulaci odstupu vozidla
+953	Telekomunikační síť a způsob jejího provozu
+973	Způsob řízení tlaku v kabině, řídicí zařízení k provádění tohoto způsobu a regulátor pro toto řídicí zařízení
+1117	Vstřikovací ventil paliva a způsob jeho nastavení
+1140	Způsob řízení dodávky elektrické energie do elektricky poháněného vozidla uzpůsobeného proprovoz v režimu napájení z vnějšího napájecího systému nebo v režimu napájení z autonomního napájecího systému a systém k provádění tohoto způsobu
+1226	Způsob a měřicí sonda pro provádění měření v systémech zásobování vodou
+1275	Způsob provozního měření navlhnutí celulózových materiálů ve výkonových transformátorech azařízení k provádění tohoto způsobu
+1523	Zařízení a způsob k měření fyzikálních parametrů v profilech půdy a/nebo sedimentu
+1536	Léčivo pro léčení zácpy a syndromu dráždivého tračníku
+1537	Systém se společným vysokotlakým zásobníkem paliva (systém common-rail) a ventil
+1542	Způsob a zařízení pro vytváření informace o vzdálenosti od překážky pro nevidomé
+1563	Způsob určení koncentrace analytu ve vzorku tekutiny a zařízení k provádění tohoto způsobu
+1594	Regulační systém a způsob pro ovládání poměru vzduchu k palivu ve směsi vzduchu a paliva hořáku
+1613	Postup a zařízení pro měření koncentrace škodlivých plynů v kouřových plynech ve vytápěcímzařízení užitím fotospektrometrie
+1721	Způsob a prostředdek na měření ztráty optického výkonu u vláknového optického konektoru
+1820	Způsob pro automatické sledování koncentrace analytu za použití minimálně invazivních zařízení
+1857	Diagnostická jednotka
+1872	Zařízení pro odstraňování rzi a nátěru a způsob tohoto odstraňování
+1910	Viskozimetr s dvojitou stoupací trubkou a jednoduchou kapilárou
+2019	Pevná perorální farmaceutická kompozice obsahující polymorf B N-(3-ethynylfenyl)-6,7-bis(2-methoxyethoxy)-4-chinazolinamin hydrochlorid
+2020	Přístroj a způsob pro perkutánní odběr biologické kapaliny a měření analytu
+2021	Přístroj a způsob pro odběr a měření složky biologické kapaliny
+2022	Přístroj a způsob pro perkutánní odběr biologické kapaliny a měření analytu
+2023	Přístroje a způsoby pro perkutánní odběr biologické kapaliny a měření
+2024	Přístroj a způsob pro perkutánní odběr bilogické kapaliny a měření analytu
+2049	Nabíječ akumulátoru
+2054	Parní turbína a způsob měření kmitání oběžné lopatky
+2069	Modul čidla tlaku
+2158	Ručně posouvatelné transportní zařízení
+2173	Zařízení citlivé na kontakt
+2206	Systém analýzy pomocí testovacího prvku
+2228	Systémy parabolických zrcadel a základny zářivkového svítidla
+2318	Způsob provozování spalovny odpadů, regulační systém a spalovna
+2340	Způsob regulace hladiny systému pro zvlhčování plynného paliva
+2730	Způsob a zařízení pro měření vůle lopatky turbíny
+2733	Elektrochemický koagulační test a zařízení pro jeho provádění
+2735	Svařovací hlava na svorníky
+2737	Způsob navařování svorníku na polotovaru a zařízení na přivařování svorníků
+2922	Zařízení na měření a optické znázornění objemu kapaliny a způsob přemisťování měřicí soupravy kapaliny
+2958	Současné stanovení vícefázových průtokových rychlostí a koncentrací
+2961	Průtokoměr
+3044	Zkušební stolice pro spalovací motory a způsob zkoušení jejich součástí
+3086	Zařízení pro měření parametrů ozubení
+3212	Kolorimetrické zkušební zařízení se sníženou chybovostí
+3249	Rychle reagující elektrochemický senzor pro monitorování hladiny glukózy
+3313	Způsob určení barvy světla
+3332	Způsob stanovení koncentrace v tekutém vzorku a zařízení k jeho provádění
+3407	Komunikační přenosový systém a způsob komunikačního přenosu
+3602	Způsob vyrovnání posunutí snímačů úhlů
+3620	Způsob a zařízení pro spalování organické zbytkové látky
+3762	Způsob, zařízení a bezpečnostní systém, vše k ověřování pravosti značkování
+3767	Způsob měření výhřevnosti plynů a měřidlo pro provádění tohoto způsobu
+3866	Způsob nedestruktivního elektrického měření úhrnné plochy absorpčních zón na kořenech dřevin a zapojení k jeho provádění
+3876	Způsob a reagenční kit pro stanovení aktivity 5´-nukleotidázy
+3926	Způsob stanovení fyzikálně mechanických vlastností semikrystalických polymerů
+3943	Způsob stanovování polohy a/nebo umístění polohy objektu, zejména vozidla jako je vlak, pohybujícího se podél známé trasy, a zařízení k provádění tohoto způsobu
+3964	Zařízení pro měření zejména rychlých změn objemové aktivity radonu ve vzduchu
+4007	Plynoměr
+4241	Záměrná osnova do puškohledu pro měření šířky předmětů
+4262	Způsob rozlišování plastů a zařízení k jeho provádění
+143	Způsob měření chybného místa u vysokofrekvenčních kabelů a vedení
+258	Způsob stanovení fermentace vlákniny a zařízení k provádění tohoto způsobu
+309	Způsob a systém pro měření tvaru kloubní dráhy, zejména dolní čelisti
+409	Elektrochemický způsob měření rychlostí chemických reakcí
+416	Senzor antioxidačního činidla
+489	Systém pro paralelní analýzu více vzorků elektroanalytickými technikami
+510	Způsob vyhledávání a analyzování informací v datových sítích
+548	Způsob neinvazního měření průběhu pulzové vlny krve a zařízení k provádění tohoto způsobu
+568	Způsob a zařízení k detekci a selekci cizích těles v cigaretách
+602	Dekorativní foukané sklo a způsob jeho výroby
+872	Způsob a zařízení pro simulaci střelby
+1048	Způsob měření doby průjezdu a zařízení k provádění tohoto způsobu
+1118	Betonová konstrukce s dvojitě chráněnými výztužnými prvky
+1222	Zapojení pro měření elektrického proudu pomocí bočníku
+1249	Způsob a zařízení pro odvlhčování potravin
+1336	Způsob ověřování seřízení rovnačky pro rovnání při působení tahu a zařízení pro seřizovánírovnačky
+1342	Podávací zařízení
+1345	Zařízení a způsob pro kalibrování víceválcového rovnacího stroje
+1375	Katodická ochrana železobetonu s napuštěním inhibitorem koroze
+1425	Způsob měření obsahu nečistot v dusíku, vodíku a kyslíku pomocí iontové průletové spektrometrie
+1606	Integrovaný řídící systém dopravy
+1712	Způsoby získání oftalmických čoček skýtajících oko se sníženou aberací
+1785	Způsob regulování rovnačky určené k rovnání kovových pásů, desek nebo tabulí v reálném čase, a rovnací zařízení obsahující rovnačku
+1889	Zařízení pro dálkovou detekci množství vody, vodních roztoků a moči v plenkových kalhotkách a plenkách
+1992	Lancetové zařízení s kapilární vzlínavostí
+2084	Souprava pro měření délkových deformací materiálů
+2108	Způsob a zařízení pro určení polohy objektu v prostoru
+2161	Způsob na měření času provozu elektrických přístrojů, na zpracování naměřených údajů a zařízení na provádění tohoto způsobu
+2262	Způsob regulace termodynamického procesu, zejména procesu spalování, a zařízení k provádění tohoto způsobu
+2318	Způsob a zařízení pro regulaci výhřevnosti topného plynu
+2393	Zařízení pro měření časových intervalů
+2557	Systém pro sběr informací
+2618	Způsob identifikace počtu druhů a sčítání kokcidiálních sporocyst
+2650	Způsob a zařízení k určení koncentrace látky v tělní tekutině
+2734	Měřič množství tepla
+2784	Multifunkční měřidlo, zejména pro řemeslné použití
+2797	Vozík pro vodorovné přemísťování motorových vozidel v automatických mechanických parkovištích
+2805	Použití peptidových sloučenin, způsob zlepšení směrování a absorpce lipozómů, způsob léčbya diagnostiky pacientů, diagnostická nebo zobrazovací testovací sada a přípravek
+2885	Způsob měření anizotropie elektrické rezistivity materiálů a zařízení k jeho provádění
+2906	Odváděcí systém pro zpracovávací zařízení se řízenou atmosférou a způsob zachycování emisíz takového zařízení
+2939	Paletový způsob obrábění
+3011	Průtokoměr pro měření malých průtoků kapalin v trubicích malých průměrů
+3069	Zařízení pro měření a následné vyhodnocování vzájemné geometrie jednotlivých dvojkolí
+3161	Způsob určení minimální vzdálenosti mezi frekvenčními kanály u předvolených buněk základových stanic
+3210	Dělič výkonu s diferenčními výstupy
+3366	Způsob a zařízení k odebírání vzorku z dávky tekutin
+3395	Způsob řezání monokrystalu v řezacím stroji a zařízení pro provádění tohoto způsobu
+3425	Zařízení pro měření kvalitativních parametrů sonografů
+3453	Naviják tenkého pásu s válečkem k měření rovnosti
+46	Rozmělňovací prostředky pro inhalátory suchého prášku a inhalátor suchého prášku
+137	Způsob bezkontaktního měření povrchové teploty a/nebo emisivity objektů a zařízení k provádění způsobu
+290	Způsob a zařízení k provádění kontroly technického stavu a funkčnosti hydrogeologických vrtů a studní
+309	Zařízení pro měření přímého slunečního záření
+375	Přípojkové a měřící centrum
+403	Způsob najíždění parního generátoru a parní generátor
+537	Způsob čištění půdy od těžkých kovů
+593	Způsob klasifikace a zařízení pro klasifikaci síťových spojení
+594	Způsob určování výkonových rezerv datového přenosu a bitových rychlostí pro síťová spojení
+679	Způsob přesného měření objemové velikosti vzduchových bublin v tekutině proudící hadičkou
+770	Způsob detekce únavy operátora ze svalové činnosti a zařízení k provádění tohoto způsobu
+779	Zdvihací řemen, zdvihací systém a způsob jeho provozování
+878	Vsazovací nástroj s prostředky pro kontrolu vsazovacích procesů
+1007	Průtoková komůrka s oplachovatelným senzorem
+1031	Způsob optimalizace výrobní technologie válcovaných výrobků
+1058	Způsob měření tažnosti přízí a podobných délkových útvarů a zařízení k provádění způsobu
+1081	Způsob měření tvrdosti a/nebo hustoty přízových návinů a zařízení k jeho provádění
+1095	Nádobka s pohyblivým víkem se senzorem pro měření rozpadu pěny
+1124	Zařízení a způsob pro měření místní specifické absorpční mohutnosti SAR
+1129	Oxykodon hydrochloridová dávková léková forma s řízeným uvolňováním pro perorální podáváníhumánním pacientům
+1131	Způsob měření délkových nestejnoměrností pramenů textilních vláken a podobných délkových útvarů a zařízení k jeho provádění
+1152	Proporcionální snímač napětí, zejména napětí v kosti
+1186	Zařízení pro měření elasticity a způsob měření elasticity
+71	Zapojení trojfázových napájecích obvodů voltmetru
+77	Způsob a zařízení pro vyrovnání mezer mezi zuby obrobku a předem vytvořenými zuby
+88	Způsob řízení systému dálkové oboustranné komunikace mezi uživateli a objektem se zařízenímipro kontrolu a měření a/nebo řízení objektu a zapojení k provádění tohoto způsobu
+103	Vícestupňový absorpční separátor
+123	Zařízení pro bezkontaktní měření vzájemné polohy dvou částí otočného mechanismu
+266	Způsob vyhledávání konce příze na cívce textilního stroje s individuálním pohonem hnacího válce navíjecího ústrojí a obslužné zařízení k provádění způsobu
+314	Zařízení a způsob k měření šumu v obrazovém signálu
+363	Použití makarpinu ke klasifikaci buňek průtokovou cytometrií
+403	Způsob měření tvaru transparentních objektů, zejména broušených kamenů a zařízení k jeho provádění
+422	Mössbauerův spektrometr
+434	Způsob zrovnoměrnění kolísající koncentrace složky nebo složek v proudícím plynu
+609	Adaptéry pro měření vysokofrekvenčních síťových odrušovacích filtrů
+633	Větrná farma a způsob jejího provozu
+9	Způsob a zařízení pro měření a/nebo kalibraci polohy tělesa v prostoru
+11	Způsob stanovení reaktivity vápencových suspenzí a aditivovaných vápencových suspenzí pro mokré odsiřování spalin
+123	Způsob a zařízení pro změnu tuhosti mechanických konstrukcí
+128	Multifunkční zařízení k odstranění borcení střech objektu v zimním období
+211	Termočlánková sonda pro měření teplot v extrémních podmínkách s pouzdrem
+350	Způsob měření tloušťky nestacionárních tenkých vrstev a optický tloušťkoměr
+406	Měření tloušťky transparentních mikrovrstev na transparentním substrátu a optický kalibr
+439	Zařízení pro kontinuální měření kmitů strunových tenzometrických snímačů s dvouvodičovým připojením
+450	Způsob vytvoření podkladové vrstvy s detekčním rastrem pro fotogrammetrické měření
+530	Zařízení pro automatickou kompenzaci vertikálního poklesu a úhlového sklonu předního, vysouvaného konce horizontálně výsuvné části výrobního, zejména obráběcího stroje
+573	Systém pro měření biologických a technických veličin v prostředí silného a proměnlivého elektromagnetického pole
+600	Způsob elektrochemických, voltametrických/polarografických a příbuzných měření či detekce do laboratorních, technologických či přenosných podmínek a zařízení k jeho provádění
+603	Způsob měření reakční doby u zvířat, zejména u koní, a systém pro měření této doby
+637	Způsob sledování okamžité polohy a identifikace objektů, zejména letadel, lodí a pozemníchvozidel a zařízení k jeho provádění
+642	Přetlakový infiltrometr pro terénní stanovení vsakovací schopnosti půd
+663	Zařízení pro simulaci vlivu rozdílných součinitelů teplotní roztažnosti desky plošného spoje a připojené bezvývodové součástky na vlastnosti pájených a lepených spojů
+708	Vlhkoměr
+744	Způsob neinvazivního rozlišení fyziologického stavu, stresu a mutací rostlin pomocí nucených kmitů a zařízení k provádění tohoto způsobu
+745	Zařízení na nedestruktivní stanovení kvality materiálu
+755	Způsob kvantitativního měření produkce nebo spotřeby plynů a zařízení k provádění tohoto způsobu
+757	Zařízení sloužící k nepřímému navádění žlabových zrcadlových kolektorů na Slunce
+768	Multiaxiální variabilní silový snímač
+789	Způsob detekce exprese prasečí telomerázy
